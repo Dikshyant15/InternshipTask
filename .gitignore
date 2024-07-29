@@ -1,0 +1,6 @@
+venv
+__pycache__
+model
+qdrant_storage;C
+.deleted
+.env
