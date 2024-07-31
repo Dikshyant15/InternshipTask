@@ -14,10 +14,6 @@ import os
 import json
 import numpy as np
 
-app = FastAPI()
-
-templates = Jinja2Templates(directory="templates")
-app.mount("/static", StaticFiles(directory="static"), name="static")
 
 llm = CTransformers(  
     model='model/llama-2-7b-chat.ggmlv3.q4_0.bin',  
@@ -26,49 +22,56 @@ llm = CTransformers(
 )  
 
 print("LLM initialised")
+model_name = "all-mpnet-base-v2"
+model = SentenceTransformer(model_name)
+
+
+url = 'http://localhost:6333'
+
+client = QdrantClient(url = url , prefer_grpc = False)
+db = Qdrant(client = client, embeddings = model, collection_name = "city_bank_faq_data")
 
 prompt_template = """Use the following pieces of information to answer the user's question.
 If you don't know the answer, just say that you don't know, don't try to make up an answer.
 
 Context: {context}
-Question: {question}
+Question: {query}
 
 Only return the helpful answer. Answer must be detailed and well explained.
 Helpful answer:
 """
 
-prompt = PromptTemplate(template= prompt_template, input_variables = ['context,question'])
+prompt = PromptTemplate(template= prompt_template, input_variables = ['context','query'])
 
 
-url = 'http://localhost:6333'
-# Load the model
-model_name = "all-mpnet-base-v2"
-model = SentenceTransformer(model_name)
 
-client = QdrantClient(url = url , prefer_grpc = False)
-db = Qdrant(client = client, embeddings = model, collection_name = "faq_db")
-# retriever = db.as_retriever(search_kwargs={"k":1})
+retriever = db.as_retriever(search_kwargs={"k":1})
 
-def create_retrieval_chain(search_function,k):
-    return RetrievalQA.from_chain_type(
-        llm = llm,
-        chain_type="stuff",
-        retriever=db.as_retriever(search_kwargs={"k": k, "search_function": search_function}),
-        chain_type_kwargs={"prompt": prompt}, 
-        prompt_template=prompt_template,        
-        verbose=True    )
-# Similar records retrieval
-similar_retriever_chain = create_retrieval_chain(lambda x:x, k=1)
+# def create_retrieval_chain(search_function,k):
+#     return RetrievalQA.from_chain_type(
+#         llm = llm,
+#         chain_type="stuff",
+#         retriever=db.as_retriever(search_kwargs={"k": k, "search_function": search_function}),
+#         chain_type_kwargs={"prompt": prompt}, 
+#         # prompt_template=prompt_template,        
+#         verbose=True    )
+# # Similar records retrieval
+# similar_retriever_chain = create_retrieval_chain(lambda x:x, k=1)
 
 
-# Dissimilar records retrieval
-def dissimilar_search(query_vector, collection):
-    # Find the farthest point by inverting the distance metric
-    distances = collection.get_distance_matrix(query_vector)
-    return np.argsort(distances)[:1]  # Adjust as needed for top-k dissimilar points
+# # Dissimilar records retrieval
+# def dissimilar_search(query_vector, collection):
+#     # Find the farthest point by inverting the distance metric
+#     distances = collection.get_distance_matrix(query_vector)
+#     return np.argsort(distances)[:1]  # Adjust as needed for top-k dissimilar points
 
-dissimilar_retriever_chain = create_retrieval_chain(dissimilar_search, k=1)
+# dissimilar_retriever_chain = create_retrieval_chain(dissimilar_search, k=1)
 
+
+app = FastAPI()
+
+templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory="static"), name="static")
 #creating api
 @app.get('/',response_class=HTMLResponse)
 async def read_root(request:Request):
@@ -76,15 +79,12 @@ async def read_root(request:Request):
 
 @app.post('/get_response')
 async def get_response(query:str = Form(...)): 
-    query_embeddings = model.encode(query, convert_to_tensor=False)
-    # Ensure embeddings are lists of floats
-    query_embedding = [query_embedding.tolist() for query_embedding in query_embeddings]
-    print(query)
-    similar_response = similar_retriever_chain({'context':"","question":query})
-    disimilar_response = dissimilar_retriever_chain({'context':"","question":query})
-    response = {"similar":similar_response,
-                "disimilar":disimilar_response
-                }
+    chain_type_kwargs = {"prompt": prompt}
+    qa = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=retriever, return_source_documents=True, chain_type_kwargs=chain_type_kwargs, verbose=True)
+    response = qa(query) 
+    # similar_response = similar_retriever_chain(query)
+    # disimilar_response = dissimilar_retriever_chain({'context':"","question":query})
+    # response = similar_response
     return jsonable_encoder(response)
     # chain_type_kwargs = {"prompt":prompt}
     # qa = RetrievalQA.from_chain_type(
