@@ -4,8 +4,12 @@ from langchain.embeddings import HuggingFaceBgeEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import pandas as pd 
+from qdrant_client.models import PointStruct,VectorParams,Distance 
+from qdrant_client import QdrantClient
 
 df = pd.read_csv(r'D:\Internship\EnterpriseKnowledgeBased\output\sorted_data_20240718_160948_csv.csv')
+city_bank_faq_df =  pd.read_csv(r'D:\Internship\EnterpriseKnowledgeBased\web scrape expirement\FAQ_Data.csv')
+
 questions_answers = df[['Question', 'Answer']]
 # texts = list(questions_answers.itertuples(index=False, name=None))
 texts = [f"{row['Question']}  {row['Answer']}" for _, row in questions_answers.iterrows()]
@@ -19,8 +23,7 @@ embeddings = model.encode(texts, convert_to_tensor=False)
 # Ensure embeddings are lists of floats
 text_embeddings = [embedding.tolist() for embedding in embeddings]
 
-from qdrant_client.models import PointStruct,VectorParams,Distance 
-from qdrant_client import QdrantClient
+
 
 url = 'http://localhost:6333'
 collection_name  = "faq_db"
