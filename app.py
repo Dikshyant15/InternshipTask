@@ -1,13 +1,14 @@
-from langchain import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from sentence_transformers import SentenceTransformer
 from langchain.chains import RetrievalQA
-from langchain.llms import CTransformers
+from langchain_community.llms import CTransformers
 from fastapi import FastAPI, Request, Form
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.encoders import jsonable_encoder
 from qdrant_client import QdrantClient
+# from langchain.vectorstores.qdrant import Qdrant
 from langchain_community.vectorstores import Qdrant
 
 app = FastAPI()
@@ -24,25 +25,7 @@ llm = CTransformers(
 print("LLM initialized")
 
 model_name = "all-mpnet-base-v2"
-model = SentenceTransformer(model_name)
-
-url = 'http://localhost:6333'
-client = QdrantClient(url=url, prefer_grpc=False)
-
-faq_db_retriever = Qdrant(client=client, embeddings=model, collection_name="faq_db").as_retriever()
-city_bank_faq_db_retriever = Qdrant(client=client, embeddings=model, collection_name="city_bank_faq_data").as_retriever()
-
-def combined_retrieval(query, k=5):
-    # Retrieve top k results from both collections
-    faq_results = faq_db_retriever.retrieve(query, top_k=k)
-    city_bank_results = city_bank_faq_db_retriever.retrieve(query, top_k=k)
-
-    # Example merge strategy: simple interleaving (you can also sort by score or relevance)
-    combined_results = []
-    for result_pair in zip(faq_results, city_bank_results):
-        combined_results.extend(result_pair)  # This interleaves results
-
-    return combined_results[:k]  # Return the top k results combined
+embeddings = SentenceTransformer(model_name)
 
 prompt_template = """Use the following pieces of information to answer the user's question.
 If you don't know the answer, just say that you don't know, don't try to make up an answer.
@@ -56,11 +39,45 @@ Helpful answer:
 
 prompt = PromptTemplate(template=prompt_template, input_variables=['context', 'query'])
 
+
+url = 'http://localhost:6333'
+client = QdrantClient(url=url, prefer_grpc=False)
+# qdrant_faq = QdrantVectorStore.from_existing_collection(
+#     embeddings=embeddings,
+#     collection_name="faq_db",
+#     url=url,
+# )
+# qdrant_city_bank_faq = QdrantVectorStore.from_existing_collection(
+#     embeddings=embeddings,
+#     collection_name="city_bank_faq_data",
+#     url=url,
+# )
+
+faq_db_retriever = Qdrant(client=client, embeddings=embeddings, collection_name="faq_db").as_retriever()
+city_bank_faq_db_retriever = Qdrant(client=client, embeddings=embeddings, collection_name="city_bank_faq_data").as_retriever()
+# faq_db_retriever = qdrant_faq.as_retriever()
+# city_bank_faq_db_retriever = qdrant_city_bank_faq.as_retriever()
+
+def combined_retrieval(query, k=5):
+    # Retrieve top k results from both collections
+    # faq_results = faq_db_retriever.retrieve(query, top_k=k)
+    # city_bank_results = city_bank_faq_db_retriever.retrieve(query, top_k=k)
+    # Retrieve top k results from both collections
+    faq_results = faq_db_retriever.invoke({"query":query})
+    city_bank_results = city_bank_faq_db_retriever.invoke({"query":query})
+    # Example merge strategy: simple interleaving (you can also sort by score or relevance)
+    combined_results = []
+    for result_pair in zip(faq_results, city_bank_results):
+        combined_results.extend(result_pair)  # This interleaves results
+
+    return combined_results # Return the top k results combined
+
+
 # Create the RetrievalQA chain using the custom combined retriever
 retrieval_chain = RetrievalQA.from_chain_type(
     llm=llm,
     chain_type="stuff",
-    retriever=faq_db_retriever,  # Use one of the retrievers as the base retriever
+    retriever=city_bank_faq_db_retriever,  # Use one of the retrievers as the base retriever
     chain_type_kwargs={"prompt": prompt},
     verbose=True
 )
