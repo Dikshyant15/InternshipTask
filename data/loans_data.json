@@ -1,0 +1,122 @@
+{
+    "https://www.citybankplc.com/loan/auto-loan": {
+        "\n                Eligibility\n              ": [
+            "Salaried Executive: Minimum 1 year experience including 6 months with current employer",
+            "Professionals such as doctors, engineers,  freelancers and others with minimum 1 year of experience.",
+            "Businessman: Minimum 2 years involvement in the same business",
+            "Income Criteria: Minimum Income: Salaried Segment - BDT 40,000",
+            "All other Segments \u2013 BDT 60,000",
+            "Personal guarantor not required"
+        ],
+        "\n                Processing Fee\n              ": [],
+        "\n                Features\n              ": [
+            "Loan amount ranging from BDT 3 lac to BDT 40 lac",
+            "Financing up to 50% of reconditioned or new vehicle price",
+            "Up to 100% financing for loan against cash security",
+            "Loan tenure 12 months\u00a0to 72 months",
+            "No hidden charges",
+            "Competitive interest rate"
+        ],
+        "\n                Required Documents\n              ": []
+    },
+    "https://www.citybankplc.com/loan/second-hand-car-loan": {
+        "\n                Eligibility\n              ": [
+            "Salaried Executive: Minimum 1 year experience including 6 months with current employer",
+            "Professionals such as doctors, engineers,  freelancers and others with minimum 1 year of experience.",
+            "Businessman: Minimum 2 years involvement in the same business",
+            "Income Criteria: Minimum Income: Salaried Segment - BDT 40,000, All other Segments \u2013 BDT 60,000"
+        ],
+        "\n                Processing Fee\n              ": [],
+        "\n                Features\n              ": [
+            "Loan amount ranging from BDT 4 lac to BDT 40 lac",
+            "Financing up to 50% of used vehicle price",
+            "Up to 100% financing for loan against cash security",
+            "Loan tenure 12 months\u00a0to 72 months. Loan maturity must be 10 years from date of manufacturing",
+            "No hidden charges",
+            "Competitive interest rate"
+        ],
+        "\n                Required Documents\n              ": []
+    },
+    "https://www.citybankplc.com/loan/personal-loan": {
+        "\n                Features\n              ": [
+            "Loan amount from BDT 2 lacs to BDT 20 lacs",
+            "Loan tenure 12 to 60 months",
+            "No hidden charges",
+            "Competitive interest rate"
+        ],
+        "\n                Processing Fee\n              ": [],
+        "\n                Eligibility\n              ": [
+            "Salaried Executive: Minimum 2 years",
+            "Professionals: Minimum 2 years of practice",
+            "Businessman: Minimum 3 years",
+            "Salaried Executive (A/C Payee): BDT 40,000",
+            "Landlord: BDT 50,000",
+            "Professional: BDT 60,000",
+            "Business person: BDT 100,000"
+        ],
+        "\n                Required Documents\n              ": []
+    },
+    "https://www.citybankplc.com/loan/home-loan": {
+        "\n                Features\n              ": [
+            "Loan amount ranging from BDT 5 lac to BDT 200 lac",
+            " Repayment tenure 1 year to 25 years",
+            "Financing up to 70% of property value",
+            "Semi-pucca financing facility",
+            "Financing to Non Resident Bangladeshi (NRB)",
+            "Home loan with overdraft (OD) facility",
+            "No hidden cost",
+            "Early settlement facility",
+            "Loan across the country"
+        ],
+        "\n                Processing Fee\n              ": [],
+        "\n                Eligibility\n              ": [
+            "BDT\u00a050,000 and above",
+            "BDT 30,000 (Government officials only)"
+        ],
+        "\n                Required Documents\n              ": []
+    },
+    "https://www.citybankplc.com/loan/student-loan": {
+        "\n                Features\n              ": [
+            "Loan Amount: 100,000 BDT to 2,000,000 BDT",
+            "Tenor: 1 to 5 Years",
+            "Interest Rate: Competitive Interest Rate",
+            "Top Up: Allowable after 3 months (Minimum BDT 1 Lac)"
+        ],
+        "\n                Eligibility\n              ": [
+            "Salaried Executive: Minimum 2 Years",
+            "Professionals: Minimum 2 years of practice",
+            "Businessman: Minimum 3 years",
+            "Salaried Executive (A/C Payee): BDT 40,000",
+            "Landlord: BDT 50,000",
+            "Professional: BDT 60,000",
+            "Business person: BDT 100,000"
+        ],
+        "\n                Required Documents\n              ": [],
+        "\n                Fees and Charge\n              ": []
+    },
+    "https://www.citybankplc.com/loan/secured-facilities": {
+        "\n                Loan type\n              ": [
+            "Secured Loan: A term loan facility for any legitimate personal purpose against security deposit.",
+            "Secured Overdraft: A revolving facility for any legitimate personal purpose against security deposit.\u00a0",
+            "secured Loan- Bullet Payment: A fixed term (monthly/quarterly interest payment) loan facility for any legitimate personal purpose against security deposit."
+        ],
+        "\n                Features\n              ": [
+            "Secured Loan: 12 Months to 60 Months",
+            "Secured Overdraft: 1 year (Renewable)",
+            "Bullet Payment: 12 Months or 24 MonthsApplicable Security:\u00a0",
+            "City\u00a0Bank issued FDR, DPS, WEDB/USDIB/USDPB",
+            "Other Bank/NBFI issued FDR, WEDB/USDIB/USDPBLoan to Value (LTV) ratio:\u00a0",
+            "Up to 90% for City\u00a0Bank issued securities",
+            "Up to 85% for other bank/NBFI issued securities",
+            "Up to 75% for WEDB/USDIB/USDPB (in both cases)",
+            "No hidden charges",
+            "Competitive interest rate"
+        ],
+        "\n                Processing fee\n              ": [],
+        "\n                Eligibility\n              ": [
+            "Age limit: Minimum Age 18 Years",
+            "Minimum\u00a0personal income: BDT 15,000/- monthly*Condition applied"
+        ]
+    },
+    "https://www.citybankplc.com#loan-submenu": "\n\n\n\n\n"
+}

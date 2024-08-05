@@ -2,17 +2,15 @@ langchain
 langchain_community
 langchain_core
 python-dotenv==1.0.1
-streamlit==1.30.0
 chromadb
 beautifulsoup4
-ctransformers==0.2.5 
-sentence-transformers==2.2.2
+ctransformers 
+sentence-transformers
 html2text==2020.1.16
 firecrawl-py
 openai
 pandas
 openpyxl
-selenium
 qdrant-client
 torch
 fastapi==0.109.2
@@ -21,4 +19,4 @@ jsonpatch==1.33
 jsonpath-python==1.0.6
 jsonpointer==2.4
 numpy
-langchain_qdrant
+langchain-huggingface

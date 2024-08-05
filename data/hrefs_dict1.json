@@ -1,0 +1,374 @@
+{
+    "icon_home\rHome": [
+        "/"
+    ],
+    "User\rAbout Usicon_arrow-front": [
+        "/who-we-are",
+        "/our-history",
+        "/vision",
+        "/board-of-directors",
+        "/management-committee",
+        "/shariah-supervisory-committee",
+        "upload/CBL_Topline_Organogram_Jun_24.pdf",
+        "/awards-accolades",
+        "/report/annualreports",
+        "/sustainability-report",
+        "/upload/Corporate-Governance-Report.pdf",
+        "/shareholding-information",
+        "/anti-money-laundering",
+        "/city-bank-subsidiary",
+        "#about-us"
+    ],
+    "icon_accounts\rAccountsicon_arrow-front": [
+        "/account/current-accounts",
+        "/account/freelancers-solutions",
+        "/account/easy-current-account",
+        "/account/general-savings-account",
+        "/account/green-savings-account",
+        "/account/savings-delight-account",
+        "/account/high-value-savings-account",
+        "/account/new-born-savings-account",
+        "/account/seniors-savings-account",
+        "/account/student-savings-account-school-plan",
+        "/account/student-savings-account-college-plan",
+        "/account/student-file",
+        "/account/goal-based-dps",
+        "/account/insurance-backed-dps-account",
+        "/account/fixed-deposit-account",
+        "/account/monthly-interest-paying-fixed-deposit-account",
+        "/account/fortune-transactional-account",
+        "/account/rmg-workers-account",
+        "/account/basic-savings-account",
+        "/account/nfcd-account",
+        "/account/rfcd-account",
+        "/account/fcy-account",
+        "/custodial-services-through-nita-account",
+        "#account-sub-menu"
+    ],
+    "icon_loans\rLoansicon_arrow-front": [
+        "/loan/auto-loan",
+        "/loan/second-hand-car-loan",
+        "/loan/personal-loan",
+        "/loan/home-loan",
+        "/loan/student-loan",
+        "/loan/secured-facilities",
+        "#loan-submenu"
+    ],
+    "icon_cards\rCardsicon_arrow-front": [
+        "/card/amex-cards",
+        "https://citygo.citybankplc.com/",
+        "/card/visa-cards",
+        "/card/mastercard-cards",
+        "/card/union-pay",
+        "https://positivepay.thecitybank.com/cards/",
+        "https://www.thecitybank.com/upload/1543989106.pdf",
+        "https://www.thecitybank.com/upload/Amex_Terms_and_Conditions.pdf",
+        "https://www.thecitybank.com/upload/Amex_Credit_Cards_Fees_Charges.pdf",
+        "/credit-card-services-forms",
+        "https://network.americanexpress.com/globalnetwork/atm_locator/en/",
+        "#card-submenu"
+    ],
+    "icon_agent\rOffshore Banking": [
+        "/obu"
+    ],
+    "icon_agent\rRFCD Account": [
+        "/account/rfcd-account"
+    ],
+    "icon_agent\rBancassurance": [
+        "/bancassurance"
+    ],
+    "icon_wholesale\rDigital Bankingicon_arrow-front": [
+        "/citytouch",
+        "https://www.ekhoni.app/",
+        "/smart-ivr",
+        "https://customerservice.thecitybank.com/",
+        "/",
+        "https://citylive.com.bd",
+        "https://cityq.thecitybank.com/internet",
+        "https://www.thecitybank.com/client/digital-brochure#book1/",
+        "#digital-banking"
+    ],
+    "icon_cards\rWholesale Bankingicon_arrow-front": [
+        "/working-capital-finance",
+        "/trade-finance",
+        "/shortmid-term-finance",
+        "/project-finance",
+        "/structured-finance",
+        "/supply-chain-finance",
+        "/cash-management",
+        "/investment-banking",
+        "https://citylive.com.bd/",
+        "http://www.thecitybank.com/upload/SOC-Wholesale_25072021.pdf",
+        "http://www.thecitybank.com/upload/irate-wholesale-1624508413.pdf",
+        "#wholesale-submenu"
+    ],
+    "icon_loans\rTreasuryicon_arrow-front": [
+        "/overnight-deposits",
+        "/term-deposits",
+        "/foreign-exchange",
+        "/local-currency-spot-and-forward",
+        "/derivatives",
+        "/government-securities-investment-window",
+        "#treasury-submenu"
+    ],
+    "logo_citygem\rPriority Bankingicon_arrow-front": [
+        "http://citygem.com.bd/",
+        "http://citygem.com.bd/sapphire",
+        "#prioritybanking"
+    ],
+    "logo_american-express\rAmerican Express": [
+        "https://www.americanexpress.com.bd/"
+    ],
+    "icon_sme\rSME Banking": [
+        "/loan/city-sme-small-loan"
+    ],
+    "\rCity Alo - Women Banking ": [
+        "https://www.cityalo.com/"
+    ],
+    "icon_agent\rEmployee Banking": [
+        "/solutions/employee-banking"
+    ],
+    "icon_agent\rAgent Banking": [
+        "/agent-banking"
+    ],
+    "icon_agent\rFinancial Literacy": [
+        "/financial-literacy"
+    ],
+    "Overview": [
+        "/who-we-are"
+    ],
+    "History": [
+        "/our-history"
+    ],
+    "Vision, Mission, and Values": [
+        "/vision"
+    ],
+    "Board of Directors": [
+        "/board-of-directors"
+    ],
+    "Management Committee": [
+        "/management-committee"
+    ],
+    "Shariah Supervisory Committee": [
+        "/shariah-supervisory-committee"
+    ],
+    "Organogram": [
+        "upload/CBL_Topline_Organogram_Jun_24.pdf"
+    ],
+    "Awards & Recognitions": [
+        "/awards-accolades"
+    ],
+    "Annual Report": [
+        "/report/annualreports"
+    ],
+    " Sustainability Report": [
+        "/sustainability-report"
+    ],
+    "Corporate Governance Report": [
+        "/upload/Corporate-Governance-Report.pdf"
+    ],
+    "Shareholding Information": [
+        "/shareholding-information"
+    ],
+    "Anti-Money Laundering": [
+        "/anti-money-laundering"
+    ],
+    "City Bank Subsidiary": [
+        "/city-bank-subsidiary"
+    ],
+    "Current Account": [
+        "/account/current-accounts"
+    ],
+    "Freelancer Solution": [
+        "/account/freelancers-solutions"
+    ],
+    "EASY Current Account and EASY Plus Current Account": [
+        "/account/easy-current-account"
+    ],
+    "General Savings Account": [
+        "/account/general-savings-account"
+    ],
+    "Green Savings Account": [
+        "/account/green-savings-account"
+    ],
+    "Savings Delight Account": [
+        "/account/savings-delight-account"
+    ],
+    "High Value Savings Account": [
+        "/account/high-value-savings-account"
+    ],
+    "New Born Savings Account": [
+        "/account/new-born-savings-account"
+    ],
+    "Seniors' Savings Account": [
+        "/account/seniors-savings-account"
+    ],
+    "Student Savings Account (School Plan)": [
+        "/account/student-savings-account-school-plan"
+    ],
+    "Student Savings Account (College Plan)": [
+        "/account/student-savings-account-college-plan"
+    ],
+    "Student File": [
+        "/account/student-file"
+    ],
+    "Goal Based DPS": [
+        "/account/goal-based-dps"
+    ],
+    "Insurance Backed DPS Account": [
+        "/account/insurance-backed-dps-account"
+    ],
+    "Fixed Deposit Account": [
+        "/account/fixed-deposit-account"
+    ],
+    "Monthly Interest Paying Fixed Deposit Account": [
+        "/account/monthly-interest-paying-fixed-deposit-account"
+    ],
+    "Fortune Transactional Account": [
+        "/account/fortune-transactional-account"
+    ],
+    "RMG Workers' Accounts": [
+        "/account/rmg-workers-account"
+    ],
+    "Basic Savings Accounts": [
+        "/account/basic-savings-account"
+    ],
+    "NFCD Accounts": [
+        "/account/nfcd-account"
+    ],
+    "RFCD Account": [
+        "/account/rfcd-account"
+    ],
+    "FCY Accounts": [
+        "/account/fcy-account"
+    ],
+    "NITA Account": [
+        "/custodial-services-through-nita-account"
+    ],
+    "Auto Loan": [
+        "/loan/auto-loan"
+    ],
+    "Second Hand Auto Loan": [
+        "/loan/second-hand-car-loan"
+    ],
+    "Personal Loan": [
+        "/loan/personal-loan"
+    ],
+    "Home Loan": [
+        "/loan/home-loan"
+    ],
+    "Student Loan": [
+        "/loan/student-loan"
+    ],
+    "Secured Facilities": [
+        "/loan/secured-facilities"
+    ],
+    "American Express Cards": [
+        "/card/amex-cards"
+    ],
+    "CityGo": [
+        "https://citygo.citybankplc.com/"
+    ],
+    "Visa Cards": [
+        "/card/visa-cards"
+    ],
+    "Mastercard Cards": [
+        "/card/mastercard-cards"
+    ],
+    "UnionPay Gold Debit Card": [
+        "/card/union-pay"
+    ],
+    "Credit Cards Customer Service Portal ": [
+        "/"
+    ],
+    "Cards FAQ": [
+        "https://www.thecitybank.com/upload/1543989106.pdf"
+    ],
+    "American Express T&C": [
+        "https://www.thecitybank.com/upload/Amex_Terms_and_Conditions.pdf"
+    ],
+    "Fees & Charges of American Express Credit Cards": [
+        "https://www.thecitybank.com/upload/Amex_Credit_Cards_Fees_Charges.pdf"
+    ],
+    "Credit Card Services Forms": [
+        "/credit-card-services-forms"
+    ],
+    "Find American Express Global ATM": [
+        "https://network.americanexpress.com/globalnetwork/atm_locator/en/"
+    ],
+    "Citytouch": [
+        "/citytouch"
+    ],
+    "Ekhoni Account": [
+        "https://www.ekhoni.app/"
+    ],
+    "Smart IVR": [
+        "/smart-ivr"
+    ],
+    "Customer service Portal": [
+        "https://customerservice.thecitybank.com/"
+    ],
+    "City Live": [
+        "https://citylive.com.bd/"
+    ],
+    "CityQ ": [
+        "https://cityq.thecitybank.com/internet"
+    ],
+    "Digital Service Brochure": [
+        "https://www.thecitybank.com/client/digital-brochure#book1/"
+    ],
+    "Working Capital Finance": [
+        "/working-capital-finance"
+    ],
+    "Trade Finance": [
+        "/trade-finance"
+    ],
+    "Short/Mid-Term Finance": [
+        "/shortmid-term-finance"
+    ],
+    "Project Finance": [
+        "/project-finance"
+    ],
+    "Structured Finance": [
+        "/structured-finance"
+    ],
+    "Supply Chain Finance": [
+        "/supply-chain-finance"
+    ],
+    "Cash Management": [
+        "/cash-management"
+    ],
+    "Investment Banking": [
+        "/investment-banking"
+    ],
+    "Schedule of Charges": [
+        "http://www.thecitybank.com/upload/SOC-Wholesale_25072021.pdf"
+    ],
+    "Interest Rate on Lending": [
+        "http://www.thecitybank.com/upload/irate-wholesale-1624508413.pdf"
+    ],
+    "Overnight Deposits": [
+        "/overnight-deposits"
+    ],
+    "Term Deposits": [
+        "/term-deposits"
+    ],
+    "Foreign Exchange": [
+        "/foreign-exchange"
+    ],
+    "Local Currency Spot and Forward": [
+        "/local-currency-spot-and-forward"
+    ],
+    "Derivatives": [
+        "/derivatives"
+    ],
+    "Government Securities Investment Window": [
+        "/government-securities-investment-window"
+    ],
+    "Citygem": [
+        "http://citygem.com.bd/"
+    ],
+    "Sapphire": [
+        "http://citygem.com.bd/sapphire"
+    ]
+}
