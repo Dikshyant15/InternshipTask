@@ -123,5 +123,8 @@
         "Host 2 Host Connectivity": [
             "Going one step closer to clients offering ERP integration (SAP, ORACLE, JAVA based ERPs). Client will receive real time MIS. To ace the need for reconciliation, we can provide tailor made reports and send them directly to your backend ERP system."
         ]
-    }
+    },
+    "https://citylive.com.bd/": "https://citylive.com.bd/",
+    "https://www.citybankplc.com/upload/SOC-Wholesale_25072021.pdf": "http://www.thecitybank.com/upload/SOC-Wholesale_25072021.pdf",
+    "https://www.citybankplc.com/upload/irate-wholesale-1624508413.pdf": "http://www.thecitybank.com/upload/irate-wholesale-1624508413.pdf"
 }
