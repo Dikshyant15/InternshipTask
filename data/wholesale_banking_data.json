@@ -86,5 +86,42 @@
         "Document preparation": [
             "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
         ]
+    },
+    "https://www.citybankplc.com/project-finance": {
+        "Our project financing solutions:": [
+            "Mitigating sponsor exposure to project risk.",
+            "Enhancing use of leverage to increase project returns by lowering the weighted average cost of capital.",
+            "Providing access to significantly longer tenure debt financings.",
+            "Creating optimum financing structures (source of debt, currency, derivatives) that take into account your company's particular capital needs as well as industry specific issues."
+        ],
+        "Lease and Long Term Loans": "We can customize a Term Loan or Lease to finance the fixed assets that your business needs (such as land, new premises, equipment and machinery). It may be a greenfield project or an expansion of an existing plant, that may be financed at competitive floating rate of interest.",
+        "Project Finance Link": "https://www.thecitybank.com/project-finance"
+    },
+    "https://www.citybankplc.com/cash-management": {
+        "At City Bank, we understand the need for efficient cash management and aim to deliver a completely integrated solution for your business. We help you manage your working capital efficiently by ensuring enhanced control over funds through convenient and secure solutions. Our services include local and cross border payments, collections, information management, account services, liquidity management and investment services for both corporate and institutional clients.": [],
+        "Liquidity Management Solutions": [
+            "CASA: We offer a wide range of short term deposit products catering to exclusive customized requirements of clients.",
+            "Term deposits: Fixed Tenure (1 month, 3 months, 6 month & 12 month) & Broken Tenure"
+        ],
+        "Collection & Payment Solutions": [
+            "City Bank Collections Solution leverages the Bank's extensive regional knowledge and widespread branch network across key markets to specially tailor solutions for your regional and local collection needs. Our Payment Solutions consists of the state of the art Online Banking Platform CityLive. The platform can be used to make single and bulk payment transactions and negates the use of manual instructions. We provide geographical mobility to our customers as they are able to authorize transactions from anywhere across the world."
+        ],
+        "Benefits of Collection & Payment Solutions": [
+            "One Bank Solution- Significantly reduces number of bank accounts.",
+            "Collection Automation with real-time MIS directly to Client's server.",
+            "Diverse nationwide collection methods including Over the Counter Collection, Cash & Courier Pickup, Collection through alternative channels, BEFTN & Direct Debit.",
+            "Reduced lag time for realizing nationwide collection.",
+            "Effective MIS from customized deposit slip to identify each collection.",
+            "A single account for all collection proceeds with preferential interest earning.",
+            "Convenience for distributors/dealers to make payments through any branches of City bank.",
+            "Faster bulk payments through RTGS and BEFTN; no need to issue multiple cheques for similar types of payment.",
+            "Hassle free issuance of bulk amount of cheques through cheque writer platform.",
+            "Remote location payment through any of 130 branches of City Bank using one central instruction.",
+            "Reduces payment lag time.",
+            "Fast, safe and convenient operational process."
+        ],
+        "Host 2 Host Connectivity": [
+            "Going one step closer to clients offering ERP integration (SAP, ORACLE, JAVA based ERPs). Client will receive real time MIS. To ace the need for reconciliation, we can provide tailor made reports and send them directly to your backend ERP system."
+        ]
     }
 }
