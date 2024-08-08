@@ -8,11 +8,27 @@
         "Mid Term Financing": "City Bank can also equip you the required fund for a longer period."
     },
     "https://www.citybankplc.com/structured-finance": {
-        "A leading provider of cost-efficient, lease-based and asset-based financing solutions to businesses in Bangladesh, we can create and tailor the right structured solutions for your business needs in order to enhance shareholder's wealth and your market competitiveness. These solutions include:": "Principal to principal structured capital market transactions optimizes investment returns and reduces effective funding costs.",
-        "Structured financing solutions": "This normally involves getting a group of banks together (forming a syndicate) to provide the loan amount required by the customer under a set of common terms and conditions laid down in a loan agreement.",
-        "Syndications": "Choose City Bank and you gain access to full loan origination, distribution and trading capabilities, together with an unrivalled ability to match lenders and borrowers. Our leadership position and world class distribution capability result from the team's ability to read the market, and to provide superb sell down coverage.",
-        "Local know-how": "Our intimate knowledge of the diverse industries as well as understanding and working with regulatory bodies, means we can provide you with a solution designed solely to meet your needs.",
-        "Your partner for success": "We also partner our clients to arrange syndicated loan facilities for project finance, aircraft finance, structured trade and acquisition financing including leveraged buy-outs."
+        "A leading provider of cost-efficient, lease-based and asset-based financing solutions to businesses in Bangladesh, we can create and tailor the right structured solutions for your business needs in order to enhance shareholder's wealth and your market competitiveness. These solutions include:": [],
+        "Structured financing solutions": [
+            "Principal to principal structured capital market transactions optimizes investment returns and reduces effective funding costs."
+        ],
+        "Syndications": [
+            "This normally involves getting a group of banks together (forming a syndicate) to provide the loan amount required by the customer under a set of common terms and conditions laid down in a loan agreement.",
+            "Choose City Bank and you gain access to full loan origination, distribution and trading capabilities, together with an unrivalled ability to match lenders and borrowers. Our leadership position and world class distribution capability result from the team's ability to read the market, and to provide superb sell down coverage."
+        ],
+        "Local know-how": [
+            "Our intimate knowledge of the diverse industries as well as understanding and working with regulatory bodies, means we can provide you with a solution designed solely to meet your needs.",
+            "We also partner our clients to arrange syndicated loan facilities for project finance, aircraft finance, structured trade and acquisition financing including leveraged buy-outs.",
+            "We have been successful in loan capital raisings for financial institutions, real estate development, hotels, telecoms, institutional banking and finance, public utility, oil and petroleum, light manufacturing and food sectors."
+        ],
+        "Your partner for success": [
+            "We have a proven track record in devising innovative capital-raising structures that exceed our clients' expectations. Our tailored solution for your business could include:",
+            "Working capital and corporate funding.",
+            "Commodity and trade finance.",
+            "Islamic structures.",
+            "Project finance.",
+            "Structured, complex and tax-efficient capital raisings."
+        ]
     },
     "https://www.citybankplc.com/investment-banking": {
         "We are a market leader in innovative, landmark deals, multi-jurisdiction solutions and sophisticated product structuring for corporate and institutional clients.We hold leading positions in fixed income local currencies and loan syndications. Our in-depth understanding of the local regulatory framework in the domestic debt and loan markets, product expertise and wide geographic reach can help you achieve your financing and investment objectives.": "",
@@ -20,5 +36,55 @@
         "Asset Backed Securities": "Our proven knowledge, product capabilities and global reach make us well-suited to match investor's needs with the funding requirements of international and domestic issuers.",
         "Credit Derivatives": "We structure, arrange and distribute asset-backed and future flow transactions for clients and our track record of innovative deals puts us at the forefront of developing securitization markets in our footprint.",
         "Convertible Bonds / Equity Derivatives": "We offer investment tools and a range of local currencies to provide structured asset solutions to meet specific investment needs, achieve target yields on your portfolio and manage risk exposure."
+    },
+    "https://www.citybankplc.com/trade-finance": {
+        "Letter of Credit": [
+            "When buying goods from overseas suppliers, you want to receive the goods in right quantity, on time and at the designated place as per your order. You also want to make payments only after receipt of the required documents including the title of goods.",
+            "We can solve your needs by issuing a documentary credit on your behalf. A documentary credit is our Bank's guarantee of payment for a shipment of goods against specific documents as stipulated on it.",
+            "By using a Letter of Credit, we will only make payment after receipt of titles and other documents that should fully comply with the terms of the credit. You can enjoy a safer and cheaper alternative to making advance payment or deposits."
+        ],
+        "Back-To-Back Letter of Credit": [
+            "If you are an intermediary and your supplier wants to sell on documentary credit term only, you may apply for the issuance of a Back-to-Back Letter of Credit from us against the export Letter of Credit.",
+            "A Back-to-Back Letter of Credit is issued against the export credit (the master credit), but the terms and conditions may not the same as the export credit. You must submit your own draft and invoice, together with the other shipping documents presented by your supplier to secure payment under the export credit. After processing, you will have the export proceeds to pay your supplier and the balance credited to your account."
+        ],
+        "Deferred Letter of Credit": [
+            "A DC which allows the nomination of a bank, or the issuing bank to effect payment against stipulated documents at a maturity date as specified or determinable from the wording of the credit. With this you are able to receive the goods now and pay later."
+        ],
+        "Import bills for collection": [
+            "A DC which allows the nomination of a bank, or the issuing bank to effect payment against stipulated documents at a maturity date as specified or determinable from the wording of the credit. With this you are able to receive the goods now and pay later."
+        ],
+        "Shipping Guarantee": [
+            "A DC which allows the nomination of a bank, or the issuing bank to effect payment against stipulated documents at a maturity date as specified or determinable from the wording of the credit. With this you are able to receive the goods now and pay later."
+        ],
+        "Import Financing": [
+            "A DC which allows the nomination of a bank, or the issuing bank to effect payment against stipulated documents at a maturity date as specified or determinable from the wording of the credit. With this you are able to receive the goods now and pay later."
+        ],
+        "Performance bonds and other guarantees": [
+            "A DC which allows the nomination of a bank, or the issuing bank to effect payment against stipulated documents at a maturity date as specified or determinable from the wording of the credit. With this you are able to receive the goods now and pay later."
+        ],
+        "Export letter of credit advising": [
+            "Benefit from prompt advising of export letter of credit from a wide international network through City Bank."
+        ],
+        "Export letter of credit safekeeping": [
+            "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
+        ],
+        "Export letter of credit confirmation": [
+            "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
+        ],
+        "Pre-shipment export financing": [
+            "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
+        ],
+        "Letter of credit checking and negotiation": [
+            "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
+        ],
+        "Export bills for collection": [
+            "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
+        ],
+        "Export invoice financing": [
+            "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
+        ],
+        "Document preparation": [
+            "Rather than be inconvenienced by having to come to the bank to collect your export letter of credit, City Bank will safe keep your original and send you a working copy to facilitate the preparation of documents."
+        ]
     }
 }
