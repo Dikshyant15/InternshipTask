@@ -1,14 +1,24 @@
 {
-    "https://www.citybankplc.com/working-capital-finance": {},
-    "https://www.citybankplc.com/trade-finance": {},
-    "https://www.citybankplc.com/shortmid-term-finance": {},
-    "https://www.citybankplc.com/project-finance": {},
-    "https://www.citybankplc.com/structured-finance": {},
-    "https://www.citybankplc.com/supply-chain-finance": {},
-    "https://www.citybankplc.com/cash-management": {},
-    "https://www.citybankplc.com/investment-banking": {},
-    "https://citylive.com.bd/": {},
-    "http://www.thecitybank.com/upload/SOC-Wholesale_25072021.pdf": {},
-    "http://www.thecitybank.com/upload/irate-wholesale-1624508413.pdf": {},
-    "https://www.citybankplc.com#wholesale-submenu": {}
+    "https://www.citybankplc.com/working-capital-finance": {
+        "Overdraft": "A convenient and flexible form of short-term financing for routine operating expenses and overheads of your company.",
+        "Guarantees and Bonds": "City Bank issues a full range of Performance Guarantees, Advance Payment Guarantees, Financial Guarantees and Bid bonds for supporting the underlying businesses of our customers."
+    },
+    "https://www.citybankplc.com/shortmid-term-finance": {
+        "Short Term Financing": "You may need fund to utilize for a very short time due to either emergency or short term projects. In such case, City Bank is here to facilitate your business needs. This can be a Short Term Loan or a Short Term Revolving Loan. You can get it either for your inland business or cross-border payment in foreign trade.",
+        "Mid Term Financing": "City Bank can also equip you the required fund for a longer period."
+    },
+    "https://www.citybankplc.com/structured-finance": {
+        "A leading provider of cost-efficient, lease-based and asset-based financing solutions to businesses in Bangladesh, we can create and tailor the right structured solutions for your business needs in order to enhance shareholder's wealth and your market competitiveness. These solutions include:": "Principal to principal structured capital market transactions optimizes investment returns and reduces effective funding costs.",
+        "Structured financing solutions": "This normally involves getting a group of banks together (forming a syndicate) to provide the loan amount required by the customer under a set of common terms and conditions laid down in a loan agreement.",
+        "Syndications": "Choose City Bank and you gain access to full loan origination, distribution and trading capabilities, together with an unrivalled ability to match lenders and borrowers. Our leadership position and world class distribution capability result from the team's ability to read the market, and to provide superb sell down coverage.",
+        "Local know-how": "Our intimate knowledge of the diverse industries as well as understanding and working with regulatory bodies, means we can provide you with a solution designed solely to meet your needs.",
+        "Your partner for success": "We also partner our clients to arrange syndicated loan facilities for project finance, aircraft finance, structured trade and acquisition financing including leveraged buy-outs."
+    },
+    "https://www.citybankplc.com/investment-banking": {
+        "We are a market leader in innovative, landmark deals, multi-jurisdiction solutions and sophisticated product structuring for corporate and institutional clients.We hold leading positions in fixed income local currencies and loan syndications. Our in-depth understanding of the local regulatory framework in the domestic debt and loan markets, product expertise and wide geographic reach can help you achieve your financing and investment objectives.": "",
+        "Debt Capital Markets": "We hold leading positions in fixed income local currencies and loan syndications. Our in-depth understanding of the local regulatory framework in the domestic debt and loan markets, product expertise and wide geographic reach can help you achieve your financing and investment objectives.",
+        "Asset Backed Securities": "Our proven knowledge, product capabilities and global reach make us well-suited to match investor's needs with the funding requirements of international and domestic issuers.",
+        "Credit Derivatives": "We structure, arrange and distribute asset-backed and future flow transactions for clients and our track record of innovative deals puts us at the forefront of developing securitization markets in our footprint.",
+        "Convertible Bonds / Equity Derivatives": "We offer investment tools and a range of local currencies to provide structured asset solutions to meet specific investment needs, achieve target yields on your portfolio and manage risk exposure."
+    }
 }
