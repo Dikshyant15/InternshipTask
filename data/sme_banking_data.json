@@ -1,0 +1,27 @@
+{
+    "https://www.citybankplc.com/loan/city-sme-small-loan": {
+        "Features": [
+            "BDT 3,00,000 to 25,00,000 for Unsecured loans",
+            "BDT 10,00,000 to 100,00,000 for Secured loans",
+            "Term Loan: 12 to 60 months (Unsecured Loan 12 to 36 months)",
+            "OD: To be renewed annually",
+            "Single Installment Loan: 3 to 9 months",
+            "Quick approval process"
+        ],
+        "Processing Fee": [
+            "No processing fees"
+        ],
+        "Eligibility": [
+            "Legal form of business",
+            "Proprietorship concerns",
+            "Partnership Firms",
+            "Private Limited",
+            "Business Experience minimum 3 years",
+            "Age of the owner : 23 to 65 years",
+            "Secured Loan is offered against the registered mortgage of property (land, building and flat)"
+        ],
+        "Cluster Financing Policy": [
+            "https://www.thecitybank.com/upload/Cluster_Financing_Policy-V3.pdf"
+        ]
+    }
+}

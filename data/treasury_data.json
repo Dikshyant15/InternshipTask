@@ -1,0 +1,20 @@
+{
+    "https://www.citybankplc.com/overnight-deposits": {
+        "General Info": "Funds which are placed / borrowed overnight are known as overnight deposit. Rates of the overnight deposit are fixed on a daily basis and the rate keeps on changing on the basis of demand and supply per day. It is used to meet up the daily fund management of all financial institutes. Overnight deposit is also known in the market as call deposit. City\u00a0Bank is an active participant of the inter-bank call market. City\u00a0Bank injects market liquidity and plays an important role in the inter - bank call money market.",
+        "Benefits": [
+            "Due to the nature of product it has minimum credit risk as the tenure is overnight.",
+            "Very effective tool to manage daily liquidity management.",
+            "Call money rates indicate the market liquidity.",
+            "Traded in bulk volume."
+        ]
+    },
+    "https://www.citybankplc.com/term-deposits": {
+        "General Info": "A deposit held at a financial institution that has a fixed term. These are generally short-term with maturities ranging anywhere from a month to a year. When a term deposit is account are opened, the lender/borrower understands that the money can only be withdrawn after the term has ended or by giving a predetermined number of days' notice. Inter-bank term deposits are considered as relatively safe investment and these are especially very appealing to conservative, low-risk investors who are expecting an adverse interest rate movement. City\u00a0Bank has a strong presence in the inter-bank term deposits and Mudaraba Term deposit market. Due to our presence in both conventional banking and Shariah banking City\u00a0Bank is one of the liquidity providers in the inter-bank Term deposit market.",
+        "Benefits": [
+            "Due to its nature of fixed term, it minimizes interest rate risk during the tenure of the deposit.",
+            "Helps to manage Balance Sheet Gap.",
+            "Reduce too much dependency on call market, thus helps to manage regulatory liquidity requirement.",
+            "Depending on the forward yield curve, it can be used to maximize returns on investment."
+        ]
+    }
+}

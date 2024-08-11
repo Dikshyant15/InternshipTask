@@ -1,0 +1,3018 @@
+{
+    "https://www.citybankplc.com/agent-banking": {
+        "Mission and objectives": [
+            "Simplifying all banking needs of the customers and reaching them out to customers' doorsteps are the mission and objective of City Agent Banking."
+        ],
+        "Services": [
+            "Opening savings, current, pay scale, student and other accounts",
+            "Cash deposit and withdrawal",
+            "Transferring funds to other banks or accounts without any hassle",
+            "Providing remittance money",
+            "Checking balance",
+            "Providing mini statement",
+            "Taking bills (electricity bill, gas bill, mobile bill etc)",
+            "Taking clearing cheque",
+            "Taking applications for micro and agriculture loans",
+            "DPS/fixed deposit services",
+            "Taking school and college fees"
+        ],
+        "Eligibility": [
+            "Nationality has to be Bangladeshi",
+            "Age should be above 18 years (except for student account)",
+            "NID/passport/driving license/local chairman's certificate with attested photo/birth certificate and any photo-ID",
+            "2 copies passport size photographs of customer",
+            "One copy photo and photo-ID of the nominee",
+            "Customer must have a trade license to open a business account",
+            "If a customer is eligible for opening account, agent will provide the account opening form."
+        ],
+        "Facilities": [
+            "Cash deposit",
+            "Fund transfer",
+            "Utility bill payment",
+            "Taking remittance",
+            "Cash withdrawal",
+            "Other Facilities:",
+            "Payment of salary in area based business institute through the outlet",
+            "Taking clearing cheque of any other bank in agent outlet",
+            "Collecting application for micro and agriculture loan",
+            "Payment of school and college fees through agent outlet",
+            "Providing all types of card related information through agent outlet",
+            "Receiving application to activate internet banking",
+            "Receiving insurance premium",
+            "Receiving monthly installment of association/society",
+            ""
+        ],
+        "Outlets": [
+            {
+                "Sl No.": "1",
+                "Outlet Name": "Abadpukur",
+                "Outlet Address": "Abadpukur Bazar, Upazilla: Raninagar, Dist: Naogaon.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "2",
+                "Outlet Name": "Abbas Bazar Chapainawabganj",
+                "Outlet Address": "Bishonathpur Bazar, Kansat, Shibganj, Chapainawabganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "3",
+                "Outlet Name": "Adamdighi Bogura",
+                "Outlet Address": "Gor Gram Road, Adamdigi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "4",
+                "Outlet Name": "Adampur Bazar Kishoreganj",
+                "Outlet Address": "Adampur Bazar, Adampur, Austogram, Kishoreganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "5",
+                "Outlet Name": "Agailjhara",
+                "Outlet Address": "College Road, Agailjhara, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "6",
+                "Outlet Name": "Alamdanga Chuadanga",
+                "Outlet Address": "Hafijmore, Kasaripatti, Alamdanga, Chuadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "7",
+                "Outlet Name": "Alir Jahal",
+                "Outlet Address": "Saima Ocean City, Alir Jahal, Cox's Bazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "8",
+                "Outlet Name": "Alirchor Bazar",
+                "Outlet Address": "Alirchor, Sureshwarddi, Muradnagar, Comillla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "9",
+                "Outlet Name": "Allauddin Nagar Bazar",
+                "Outlet Address": "Allauddin Nagar, Kumarkhali, Kushtia",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "10",
+                "Outlet Name": "Alokbali Bazar",
+                "Outlet Address": "Alokbali Bazar, Narsigdi Saar, Narsingdi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "11",
+                "Outlet Name": "Amanbazar",
+                "Outlet Address": "Amanbazar, Hathazari, Chattogram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "12",
+                "Outlet Name": "Amdabad Bazar Jashore",
+                "Outlet Address": "Amdabad Bazar, Sadar Jashore",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "13",
+                "Outlet Name": "Anando Bazar Rowmari",
+                "Outlet Address": "Gasbari Bazar, Datvanga, Rowmari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "14",
+                "Outlet Name": "Ananta Bazar Pabna",
+                "Outlet Address": "South Raghabpur, Ananta Bazar, Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "15",
+                "Outlet Name": "Andharijhar Bhurungamari Kurigram",
+                "Outlet Address": "Khamar Andharijhar, Bhurungamari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "16",
+                "Outlet Name": "Angaria Bazar",
+                "Outlet Address": "Court Bus Stand, Sadar Road, Shariatpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "17",
+                "Outlet Name": "Angarkhola",
+                "Outlet Address": "Angarkhola Bazar, Ghatail, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "18",
+                "Outlet Name": "Anondo Bazar",
+                "Outlet Address": "Ananda Bazar, Bk Nagar, Jajira, Shariatpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "19",
+                "Outlet Name": "Aramnagar Bazar",
+                "Outlet Address": "Aramnagar Bazar, Sarishabari, Jamalpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "20",
+                "Outlet Name": "Aranda Bazar Jashore",
+                "Outlet Address": "Arenda Bazar, Kotoali, Sadar, Jessore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "21",
+                "Outlet Name": "Arpara Bazar Magura",
+                "Outlet Address": "Arpara Bazar, Shalikha, Magura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "22",
+                "Outlet Name": "Asadpur Bazar",
+                "Outlet Address": "Asadpur Bazar, Homna, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "23",
+                "Outlet Name": "Ashta Bazar Faridganj",
+                "Outlet Address": "Ashta Bazar, Faridganj, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "24",
+                "Outlet Name": "Ashuganj Bazar Brahmanbaria",
+                "Outlet Address": "Ashuganj Bazar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "25",
+                "Outlet Name": "Asmania Bazar Cumilla",
+                "Outlet Address": "Asmania Bazar, Narandia, Titas, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "26",
+                "Outlet Name": "Assim Bazar",
+                "Outlet Address": "Assim Bazar, Fulbaria, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "27",
+                "Outlet Name": "Ataikula Bazar Pabna",
+                "Outlet Address": "Ataikula Bazar, Sathiya, Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "28",
+                "Outlet Name": "Atmul Bazar",
+                "Outlet Address": "Atmul Bazar, Shibganj, Bogura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "29",
+                "Outlet Name": "Aworhakhali Bazar",
+                "Outlet Address": "Kawlita, Adi Jangalia, Kaliganj, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "30",
+                "Outlet Name": "Babuchi",
+                "Outlet Address": "Babuchi Bazar, Chaduddagram, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "31",
+                "Outlet Name": "Bagatipara",
+                "Outlet Address": "Biharkol Bazar, Bagatipara, Natore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "32",
+                "Outlet Name": "Bagerhat Paurashava",
+                "Outlet Address": "H-33, Doshani, Bagerhat Sadar, Bagerhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "33",
+                "Outlet Name": "Bagha Bazar Rajshahi",
+                "Outlet Address": "Shop No: 04, Dakshin Milik Bagha, Bagha Paurashava, Rajshahi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "34",
+                "Outlet Name": "Baghopara",
+                "Outlet Address": "Baghopara bazar, Gokul, Bogura sadar, Bogura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "35",
+                "Outlet Name": "Bagzana Bazar",
+                "Outlet Address": "Bagjana, Panchbibi, Joypurhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "36",
+                "Outlet Name": "Baitkamari Bazar Rowmari",
+                "Outlet Address": "Batkamari Bazar, Rowmari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "37",
+                "Outlet Name": "Bajitpur Bazar Kishoreganj",
+                "Outlet Address": "Bajitpur Bazar, Bajitpur, Kishoreganj",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "38",
+                "Outlet Name": "Baker Bazar",
+                "Outlet Address": "Beker Bazar, Dagonbhuiyan, Feni",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "39",
+                "Outlet Name": "Bakhrabad Bazar",
+                "Outlet Address": "Bakhrabad Bazar, Jahapur, Muradnagar, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "40",
+                "Outlet Name": "Bakra Jhikorgacha Jessore",
+                "Outlet Address": "Digdana, Jhikargacha, Jessore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "41",
+                "Outlet Name": "Bakshiganj Bazar Jamalpur",
+                "Outlet Address": "Shop No-211, Puraton Bus Stand, Bakshiganj, Jamalpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "42",
+                "Outlet Name": "Baliakandi Rajbari",
+                "Outlet Address": "Doppara, Podmodi, Baliakandi, Rajbari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "43",
+                "Outlet Name": "Baligaon Bazar",
+                "Outlet Address": "Baligaon Bazar, Tongibari, Munshiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "44",
+                "Outlet Name": "Balutpa Bazar Cumilla",
+                "Outlet Address": "Kaliya Juri, Cumilla City Corporation, Cumilla",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "45",
+                "Outlet Name": "Bamondanga",
+                "Outlet Address": "College Road Bamandanga, Sundarganj, Gaibanda",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "46",
+                "Outlet Name": "Bamondi Bazar Meherpur",
+                "Outlet Address": "Bamandi Bazar, Bamandi, Gangni, Meherpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "47",
+                "Outlet Name": "Banaripara Barisal",
+                "Outlet Address": "Ferryghat, Banaripara, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "48",
+                "Outlet Name": "Banaripara Bazar",
+                "Outlet Address": "Arodder Potti, Banaripara, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "49",
+                "Outlet Name": "Banati Bazar Kalapara Patuakhali",
+                "Outlet Address": "Banati Bazar, Lalua, Kolapara, Patuakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "50",
+                "Outlet Name": "Bancharampur Outlet",
+                "Outlet Address": "Asadnagar, Bancharampur Paurashava, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "51",
+                "Outlet Name": "Bangalipur Outlet Saidpur",
+                "Outlet Address": "Lakshmanpur Charakpara, Saidpur, Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "52",
+                "Outlet Name": "Bangara Bazar",
+                "Outlet Address": "Bangora Bazar, Jinodpur, Nabinagar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "53",
+                "Outlet Name": "Bangla Bazar Bhola",
+                "Outlet Address": "Bangla Bazar, Doulatkhan, Bhola",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "54",
+                "Outlet Name": "Bangladesh Hat Manikganj",
+                "Outlet Address": "Panchankhara, Gorpara, Manikganj Sadar, Manikganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "55",
+                "Outlet Name": "Bansha Bazar Chatkhil",
+                "Outlet Address": "Bansha Bazar, Chatkhil, Noakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "56",
+                "Outlet Name": "Banshkhali",
+                "Outlet Address": "Gunagari, Banshakhali, Chattagram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "57",
+                "Outlet Name": "Barachowna Bazar",
+                "Outlet Address": "Barachowna, Beltali, Shakhipur, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "58",
+                "Outlet Name": "Baraghop",
+                "Outlet Address": "Poteyar Para, Monohorkhali, Kutubdia, Cox'S Bazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "59",
+                "Outlet Name": "Barguna Bazar",
+                "Outlet Address": "Nazrul Islam Road, Barguna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "60",
+                "Outlet Name": "Barinda Bazar Mirzapur",
+                "Outlet Address": "Barinda Bazar, Mirzapur, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "61",
+                "Outlet Name": "Barishal Sadar",
+                "Outlet Address": "Barisal Sadar Road, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "62",
+                "Outlet Name": "Baroiyarhat Outlet Mirsarai",
+                "Outlet Address": "Holding-165, Jamalpur Super Market, Puraton Bishoroad, Baroiyarhat, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "63",
+                "Outlet Name": "Barura Bazar Cumilla",
+                "Outlet Address": "Holding: 254/1, Barura, Puratonkadba Road, Barura Pouroshova, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "64",
+                "Outlet Name": "Bataisori Bazar",
+                "Outlet Address": "Bataichori Notun Bazar, Bataichori, Barura, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "65",
+                "Outlet Name": "Batakandi",
+                "Outlet Address": "Batakandi Bazar, Titas, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "66",
+                "Outlet Name": "Bhaduriea Bazar",
+                "Outlet Address": "Bhaduria Bazar, Nawabganj, Dinajpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "67",
+                "Outlet Name": "Bhanga",
+                "Outlet Address": "Bhanga, Faridpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "68",
+                "Outlet Name": "Bhatai Bazar Shailkupa",
+                "Outlet Address": "Bhatai Bazar, Shailokupa, Jhenaidah",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "69",
+                "Outlet Name": "Bheramara Bazar Kushtia",
+                "Outlet Address": "Nearer Police Station, Bheramara, Kushtia",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "70",
+                "Outlet Name": "Bholachang",
+                "Outlet Address": "Alamnagar, Nabinagar, Brahmanbaria",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "71",
+                "Outlet Name": "Bholdighi Bazar",
+                "Outlet Address": "Bholdighi Bazar, Shahrasti, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "72",
+                "Outlet Name": "Bhuiyarhat Lakshmipur",
+                "Outlet Address": "Bhuiyarhat, Lakshmipur Sadar, Lakshmipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "73",
+                "Outlet Name": "Biddaganj Bazar Mymensingh",
+                "Outlet Address": "Kustia Chakpara, Biddaganj, Mymensingh Sadar, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "74",
+                "Outlet Name": "Bilnalai Ghior",
+                "Outlet Address": "Soto Bilnalai, Ghior, Manikganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "75",
+                "Outlet Name": "Binodpur Chapainawabganj",
+                "Outlet Address": "Chadshikari Dokkhinpara, Binodpur, Shibganj, Chapainawabganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "76",
+                "Outlet Name": "Bipulashar Bazar",
+                "Outlet Address": "Bipulashar Bazar, Bipulashar, Monohorgonj, Cumilla",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "77",
+                "Outlet Name": "Birampur Bazar Dinajpur",
+                "Outlet Address": "Birampur, Dinajpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "78",
+                "Outlet Name": "Birampur Bazar Faridganj",
+                "Outlet Address": "Birampur bazar, foridgonj, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "79",
+                "Outlet Name": "Birgram Bazar",
+                "Outlet Address": "Jagannathpur, Kharna, Shajahanpur, Bogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "80",
+                "Outlet Name": "Biroly Bazar",
+                "Outlet Address": "Biroly Bazar, Feni Sadar, Feni",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "81",
+                "Outlet Name": "Biswacoloni",
+                "Outlet Address": "Zakir Hossain Road, Khulshi, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "82",
+                "Outlet Name": "Biti Basania Bazar",
+                "Outlet Address": "Biti Basania Bazar, Kashipur, Homna, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "83",
+                "Outlet Name": "Boalmari Bazar",
+                "Outlet Address": "Main Road, Boalmari Bazar, Faridpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "84",
+                "Outlet Name": "Boda Bazar Panchagarh",
+                "Outlet Address": "Muktijoddha Complex, Boda Bazar, Boda, Panchagarh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "85",
+                "Outlet Name": "Bodorgonj Bazar",
+                "Outlet Address": "H-3 Rafiq Market, Bus Stand Rangpur Road, Badarganj, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "86",
+                "Outlet Name": "Bonarpara",
+                "Outlet Address": "Bonarpara, Saghata, Gaibandha",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "87",
+                "Outlet Name": "Bongaon Bazar Jhinaigati",
+                "Outlet Address": "Bongaon, Jhinaigati, Sherpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "88",
+                "Outlet Name": "Bongobir Road Sylhet",
+                "Outlet Address": "Bangabir Road,Dakshin Surma,Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "89",
+                "Outlet Name": "Boraikandi Bazar Rowmari",
+                "Outlet Address": "Boraikandi Bazar, Showlmari, Rowmari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "90",
+                "Outlet Name": "Borhanuddin Bazar",
+                "Outlet Address": "Sadar Road, Borhanuddin, Bhola",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "91",
+                "Outlet Name": "Bornali More Rajshahi",
+                "Outlet Address": "H-227 Uposhahar, Boalia, Rajshahi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "92",
+                "Outlet Name": "Borobazar Akhaura",
+                "Outlet Address": "Borobazar, Akhaura, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "93",
+                "Outlet Name": "Borokandi Habiganj",
+                "Outlet Address": "Munshi Bari, Borokandi, Paniumda, Nabiganj, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "94",
+                "Outlet Name": "Boteswar",
+                "Outlet Address": "Jalalabad cantonment,Sylhet sadar,Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "95",
+                "Outlet Name": "Bottola Rajibpur",
+                "Outlet Address": "Char Rajibpur, Bottola, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "96",
+                "Outlet Name": "Brammanpara Bazar Comilla",
+                "Outlet Address": "Rashid Market Ground Floor, M. A. Gani Road, Brammanpara, Comilla",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "97",
+                "Outlet Name": "Burichang Bazar Cumilla",
+                "Outlet Address": "Burichang, Office Road, Burichang,",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "98",
+                "Outlet Name": "Burighat",
+                "Outlet Address": "Buriyarghat, Naniarchar, Rangamati",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "99",
+                "Outlet Name": "Cemetry Road Khulna",
+                "Outlet Address": "15 Cemetry Road, Khulna Sadar, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "100",
+                "Outlet Name": "Chakhar Bazar",
+                "Outlet Address": "Prapto Shopping Complex, Chakhar Bazar, Chakhar, Banaripara, Barishal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "101",
+                "Outlet Name": "Chandaiya",
+                "Outlet Address": "Chandaiya, Kaliganj, Gazipur",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "102",
+                "Outlet Name": "Chandgazi Bazar",
+                "Outlet Address": "Joynagar, Chandgazi, Chhagalnaiya, Feni",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "103",
+                "Outlet Name": "Chandina Bazar",
+                "Outlet Address": "Chandina Bazar, Chandina, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "104",
+                "Outlet Name": "Chandorpur Bazar Golapganj",
+                "Outlet Address": "Rihat Market, Chandorpur Bazar, Budhbari Bazar, Golapganj, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "105",
+                "Outlet Name": "Chandpur Bazar",
+                "Outlet Address": "Chandpur Bazar, Kapasia, Gazipur.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "106",
+                "Outlet Name": "Chandpur Comilla Sadar",
+                "Outlet Address": "Chanpur, Adarsha Sadar, Comilla",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "107",
+                "Outlet Name": "Chandra Bazar Chandpur",
+                "Outlet Address": "Dakshin Balia, Ward-08, Bakhorpur, Chadpur Sadar, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "108",
+                "Outlet Name": "Char Islampur",
+                "Outlet Address": "Char Islampur, Bijoynagar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "109",
+                "Outlet Name": "Charfashion Bhola",
+                "Outlet Address": "4 No Ward, Charfashion Pourashava, Bhola",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "110",
+                "Outlet Name": "Charsubudhi Narsingdi",
+                "Outlet Address": "Charsubuddi Maddapara, Raipura, Narsingdi.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "111",
+                "Outlet Name": "Chatir Char Bazar Kishoreganj",
+                "Outlet Address": "Chatir Char, Nikli, Kishorganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "112",
+                "Outlet Name": "Chatmohar",
+                "Outlet Address": "Chatmohar, Chatmohor Paurasava, Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "113",
+                "Outlet Name": "Chatra Hat Pirganj",
+                "Outlet Address": "Chatra Hat, Chatra Kachari, Pirganj, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "114",
+                "Outlet Name": "Chawk Bazar Cumilla",
+                "Outlet Address": "Chwak Bazar, Cumilla Adarsha Sadar, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "115",
+                "Outlet Name": "Cheora",
+                "Outlet Address": "Choera Bazar (Rastar Matha), Chauddagram, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "116",
+                "Outlet Name": "Cherag Ali Tongi",
+                "Outlet Address": "Cherag Ali, Tongi, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "117",
+                "Outlet Name": "Chinatola Bazar",
+                "Outlet Address": "Chinatola, Monirampur, Jessore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "118",
+                "Outlet Name": "Chitashal Bazar",
+                "Outlet Address": "Dokkhin Rasulpur, Islami Bazar, Kutubpur, Narayanganj Sadar, Narayanganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "119",
+                "Outlet Name": "Chondipur Bazar",
+                "Outlet Address": "Chondipur Bazar, Dist:Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "120",
+                "Outlet Name": "Chowara Bazar",
+                "Outlet Address": "Chowara Bazar, Sadar South, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "121",
+                "Outlet Name": "Chowdhury Bari Narayanganj",
+                "Outlet Address": "Tatkhana, Bou Bazar, Narayanganj City Corporation",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "122",
+                "Outlet Name": "Chowganga Bazar Kishoreganj",
+                "Outlet Address": "Maguri, Kajla, Tarail, Kishoreganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "123",
+                "Outlet Name": "Chowgasa",
+                "Outlet Address": "H-342 Dhaniplaza, Chowgacha, Jessore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "124",
+                "Outlet Name": "Chowmohoni Chattogram",
+                "Outlet Address": "Jeni Shopping Center(2nd floor), P.A.B Road, Chatori, Chowmohoni, Anowara, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "125",
+                "Outlet Name": "Chowmuri Bazar Kishoreganj",
+                "Outlet Address": "Chowmuri Bazar, Kuliarchar, Kishoreganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "126",
+                "Outlet Name": "Chowpot Bazar",
+                "Outlet Address": "Chowpot, Baghab, Shibpur, Narsingdi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "127",
+                "Outlet Name": "Chromankathi Bazar Jashore",
+                "Outlet Address": "H-466, Shop-1:466, Jel Road, Ghop, Jessore",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "128",
+                "Outlet Name": "Chuadanga Sadar",
+                "Outlet Address": "Court Para, Chuadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "129",
+                "Outlet Name": "College Road Lalbagh",
+                "Outlet Address": "College Road, Lalbagh, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "130",
+                "Outlet Name": "Colonelhat",
+                "Outlet Address": "New Monsurabadh Chowrastar More, Akbarsah, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "131",
+                "Outlet Name": "Companyganj Bazar",
+                "Outlet Address": "Bangra Bazar, Muradnagar, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "132",
+                "Outlet Name": "Dahkula Bazar Kushtia",
+                "Outlet Address": "Dahkula Bazar, Kushtia Sadar, Kushtia",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "133",
+                "Outlet Name": "Dakatia Chowrasta Bazar Mymensingh",
+                "Outlet Address": "Dakatia Chowrasta Bazar, Dakatia, Bhaluka, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "134",
+                "Outlet Name": "Dakpara Bazar Sherpur",
+                "Outlet Address": "Dakpara Benger More, Sherpur Sadar, Sherpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "135",
+                "Outlet Name": "Dakshin Tamta UDC Chandpur",
+                "Outlet Address": "Dakshin Tamta Union Parishad, Shahrasti, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "136",
+                "Outlet Name": "Dalal Bazar Outlet",
+                "Outlet Address": "Dalal Bazar,Lakshmipur,Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "137",
+                "Outlet Name": "Darashi Tulpai Bazar",
+                "Outlet Address": "Tulpai, Tulpai Fatepur, Kachua, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "138",
+                "Outlet Name": "Darora Bazar",
+                "Outlet Address": "Darora, Mohichail, Chandina, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "139",
+                "Outlet Name": "Darsana Chuadanga",
+                "Outlet Address": "Loknathpur Bazar,Dhamura,Chuadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "140",
+                "Outlet Name": "Daudnagor Shahistaganj",
+                "Outlet Address": "Daudnagorbazar, Shahestaganj, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "141",
+                "Outlet Name": "Daulatpur Khulna",
+                "Outlet Address": "180, Jassore Road, Daulatpur, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "142",
+                "Outlet Name": "DB Road Domar",
+                "Outlet Address": "DB Road, Domar, Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "143",
+                "Outlet Name": "Debidwer New Market",
+                "Outlet Address": "Sapnil Tower Debidwar Paurashava, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "144",
+                "Outlet Name": "Deli Bazar Kasba",
+                "Outlet Address": "Deli Bazar, Kasba, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "145",
+                "Outlet Name": "Derkota Bazar Chauddagram",
+                "Outlet Address": "Derkota Bazar, Khironshal Bazar, Chauddagram, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "146",
+                "Outlet Name": "Dewanganj Bazar Mymensingh",
+                "Outlet Address": "Dewanganj Bazar, Nandail, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "147",
+                "Outlet Name": "Dewanganj Jamalpur",
+                "Outlet Address": "Dewanganj, Jamalpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "148",
+                "Outlet Name": "Dhaka Shishu Hospital",
+                "Outlet Address": "30/4, Hazipara, Rampura, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "149",
+                "Outlet Name": "Dhaka Uddan",
+                "Outlet Address": "45, Haji Dil Mohammad Avenue, Mohammadpur, Dhaka.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "150",
+                "Outlet Name": "Dhamura Bandar",
+                "Outlet Address": "Dhamura Bandar,Wazirpur, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "151",
+                "Outlet Name": "Dhanpatikhola Muradnagar",
+                "Outlet Address": "Pajirpar, Dhanpatikhola, Muradnagar, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "152",
+                "Outlet Name": "Dhanua Bazar Faridganj",
+                "Outlet Address": "Dhanua Bazar, Faridganj, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "153",
+                "Outlet Name": "Dhariarchar",
+                "Outlet Address": "Dhariarchar, Bancharampur, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "154",
+                "Outlet Name": "Dholapara Bazar",
+                "Outlet Address": "Dhalapara Bazar, Dhalapara, Ghatail, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "155",
+                "Outlet Name": "Dimla Bazar",
+                "Outlet Address": "Baburhat, Dimla, Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "156",
+                "Outlet Name": "DINAJPUR MEDICAL MORE",
+                "Outlet Address": "Medical More, Sadar, Dinajpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "157",
+                "Outlet Name": "Dokkhin Keraniganj",
+                "Outlet Address": "Dokkhin Keraniganj, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "158",
+                "Outlet Name": "Dokkinvag Borlekha",
+                "Outlet Address": "Dakshinvag Bazarastha, Barlekha, Maulvibazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "159",
+                "Outlet Name": "Domar",
+                "Outlet Address": "Chotorawta, Domar, Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "160",
+                "Outlet Name": "Doyarampur",
+                "Outlet Address": "Doyarampur Bazar, Bagatipara, Nator",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "161",
+                "Outlet Name": "Dupchanchia Bazar",
+                "Outlet Address": "H-109, Shop-109, Taj Super Market, Dhupchachia, Bogura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "162",
+                "Outlet Name": "Durakuti Bazar Sadar Lalmonirhat",
+                "Outlet Address": "Durakuti Bazar, Mogolhat, Lalmonirhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "163",
+                "Outlet Name": "Durgahata Gabtali",
+                "Outlet Address": "Utsa Market, Durgahata, Gabtali, Bogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "164",
+                "Outlet Name": "Elephant Road",
+                "Outlet Address": "S. J. Zahanara Imam Shoroni, Elephant Road, Dhaka - 1205",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "165",
+                "Outlet Name": "Ershad More",
+                "Outlet Address": "Ranipukur, Mithapukur, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "166",
+                "Outlet Name": "Fardabad",
+                "Outlet Address": "Fardabad Bazar, Bancharampur, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "167",
+                "Outlet Name": "Fatehpur Bazar",
+                "Outlet Address": "Fatehpur Bazar, Bahubal, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "168",
+                "Outlet Name": "Fatika Hathazari",
+                "Outlet Address": "City Complex, Hathazari Bus Station, Hathazari, Chattogram",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "169",
+                "Outlet Name": "Fokir Market Tongi",
+                "Outlet Address": "Biscic Pagar Fokir Market, Tongi, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "170",
+                "Outlet Name": "Fokirhat Khulna",
+                "Outlet Address": "Kathaltola More, Fokirhat, Bagerhat.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "171",
+                "Outlet Name": "Fulbari Bazar",
+                "Outlet Address": "Purbo Gouripara, Fulbari, Dinajpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "172",
+                "Outlet Name": "Fultara Bazar Delduar",
+                "Outlet Address": "Fultara Bazar, Lalhara, Delduar, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "173",
+                "Outlet Name": "Gadkhali Jhikargasa",
+                "Outlet Address": "Gadkhali Bazar, Jhikargacha, Jashore",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "174",
+                "Outlet Name": "Gangni Outlet",
+                "Outlet Address": "Gangni College Para, Gangni, Meherpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "175",
+                "Outlet Name": "Garo Bazar Ghatail",
+                "Outlet Address": "Garobazar, Ghatail, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "176",
+                "Outlet Name": "Gazinagar Lakshmipur",
+                "Outlet Address": "Gazinagar, Raipur, Lakshmipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "177",
+                "Outlet Name": "Gharmora Bazar",
+                "Outlet Address": "Gharmora, Bandar, Narayanganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "178",
+                "Outlet Name": "Goalgram Bazar Rowmari",
+                "Outlet Address": "Goalgram, Chuliar Chor, Rowmari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "179",
+                "Outlet Name": "Goashpur Bazar Golapganj",
+                "Outlet Address": "Goaspur Cng Stand, Golapganj, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "180",
+                "Outlet Name": "Gobindaganj Sunamganj",
+                "Outlet Address": "Jawabazar, Chhatak, Sunamganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "181",
+                "Outlet Name": "Gohalbari",
+                "Outlet Address": "Gohalbari, Baroghoria, Chapainawabganj Sadar, Chapainawabganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "182",
+                "Outlet Name": "Gokarna Nasirnagar",
+                "Outlet Address": "Goukarna, Nasirnagar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "183",
+                "Outlet Name": "Gokul Bogra",
+                "Outlet Address": "Gokul Uttorpara, Gokul, Bogra Sadar, Bogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "184",
+                "Outlet Name": "Gollak Bazar",
+                "Outlet Address": "Gollak Bazar, Faridganj, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "185",
+                "Outlet Name": "Gopalpur Bazar Faridpur",
+                "Outlet Address": "Gopalpur Bazar, Gopalpur, Alfadanga, Faridpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "186",
+                "Outlet Name": "Gossi Dorartek",
+                "Outlet Address": "Gossi Dorartek, Raozan, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "187",
+                "Outlet Name": "Gowainghat Sadar",
+                "Outlet Address": "Gowain, Maturtol Bazar, Gowainhat, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "188",
+                "Outlet Name": "Goyeshpur Bazar",
+                "Outlet Address": "Pabna Cade College Road Ghoyeshpur, Pabna Sadar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "189",
+                "Outlet Name": "Goyhatta Bazar",
+                "Outlet Address": "Gaihatta Bazar , Ullapara , Shirajganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "190",
+                "Outlet Name": "Gridakalindia Bazar",
+                "Outlet Address": "College Market, Gridakalindia Bazar, Faridganj, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "191",
+                "Outlet Name": "Guabari Bazar Sylhet",
+                "Outlet Address": "Guabari Bazar, Akhalia Bazar, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "192",
+                "Outlet Name": "Gulbahar Bazar Kachua Chandpur",
+                "Outlet Address": "Gulbahar, Gulbahar-3630, Kachua, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "193",
+                "Outlet Name": "Gulchanda Bazar",
+                "Outlet Address": "Sonapur,Lamakazi, Golcondo Bazar, Bishwanath, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "194",
+                "Outlet Name": "Guzia Bazar",
+                "Outlet Address": "Guzia Bazar, Shibganj, Bogura",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "195",
+                "Outlet Name": "Habibpur Shailkupa",
+                "Outlet Address": "Habibpur, Shailkupa, Jhenaidah",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "196",
+                "Outlet Name": "Hadis Park Khulna",
+                "Outlet Address": "K.C.C Chosma Market, Khulna Sadar, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "197",
+                "Outlet Name": "Harati UDC Lalmonirhat",
+                "Outlet Address": "5 No Harati Union, Namuri, Lalmonirhat Sadar, Lalmonirhat",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "198",
+                "Outlet Name": "Harinarayanpur Kushtia",
+                "Outlet Address": "Harinaraynpur Baza,R E B, Kustis",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "199",
+                "Outlet Name": "Harta Barishal",
+                "Outlet Address": "Harta Bazar, Uzirpur, Barishal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "200",
+                "Outlet Name": "Haspatal Road Sadar Dinajpur",
+                "Outlet Address": "Dokhin Munsipara,Haspatal Road, Sadar,Dinajpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "201",
+                "Outlet Name": "Hat Ghorjan Bazar Sirajganj",
+                "Outlet Address": "Boro Ghorjan, Ghorjan, Chowhali, Sirajganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "202",
+                "Outlet Name": "Hayatmor",
+                "Outlet Address": "Hayatmor, Islampur, Chapainawabganj Sadar, Chapainawabganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "203",
+                "Outlet Name": "Hazarihat",
+                "Outlet Address": "Shahbuddinagar, Rangunia, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "204",
+                "Outlet Name": "Haziganjbazar Southsurma Sylhet",
+                "Outlet Address": "Ranga Haziganj Bazar, South Surma, Sylhet",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "205",
+                "Outlet Name": "Helencha Bazar Outlet",
+                "Outlet Address": "Helenjja Bazar,Belbayna, Alfadanga, Faridpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "206",
+                "Outlet Name": "HIP",
+                "Outlet Address": "Habiganj Industrial Park, Olipur Bazar, Sayestaganj, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "207",
+                "Outlet Name": "Hogla Bazar Netrakona",
+                "Outlet Address": "Hogla Bazar, Hogla, Purbadhala, Netrakona",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "208",
+                "Outlet Name": "Homna Bazar",
+                "Outlet Address": "Homna Bazar, Ward-3, Homna, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "209",
+                "Outlet Name": "Horichar Bazar",
+                "Outlet Address": "Harishchar Cowrasta, Lalmai, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "210",
+                "Outlet Name": "Horipur Kushtia Sadar",
+                "Outlet Address": "Boaldaho Mor, Hatosh Horipur, Kushtia Sadar, Kushtia",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "211",
+                "Outlet Name": "Ishwardi Bazar",
+                "Outlet Address": "Ishwardi Bazar, Ishwardi, Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "212",
+                "Outlet Name": "Ishwarganj Bazar Mymensingh",
+                "Outlet Address": "Hol: 94, Selina Complex (2Nd Floor), Ishwarganj Thana Road, Ishwarganj, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "213",
+                "Outlet Name": "Islambag Dhaka",
+                "Outlet Address": "21, Islambag, Dhaka, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "214",
+                "Outlet Name": "Islampur Bazar Jamalpur",
+                "Outlet Address": "Girls School Road, Islampur, Jamalpur.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "215",
+                "Outlet Name": "Islampur Dhamrai",
+                "Outlet Address": "H-B:62, Ward-7, Islampur, Dhamrai, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "216",
+                "Outlet Name": "Jamtoil Bazar Kamarkhanda",
+                "Outlet Address": "Jamtail Bazar, Baiddajamtail, Kamarkhanda, Sirajganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "217",
+                "Outlet Name": "Jatrabari Thana",
+                "Outlet Address": "295/Jh/14 Rayer Bazar, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "218",
+                "Outlet Name": "Jawa Bazar Sunamganj",
+                "Outlet Address": "Lokkhansum,Jouwa Bazar,Chatak, Sunamgonj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "219",
+                "Outlet Name": "Jhalokhati Sador",
+                "Outlet Address": "H-09, Shop-09, Amtolaroad, Jhalokati",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "220",
+                "Outlet Name": "Jhanjile Bazar Netrakona",
+                "Outlet Address": "Jhanjile Bazar, Durgapur, Netrakona",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "221",
+                "Outlet Name": "Jhatiapara Comilla",
+                "Outlet Address": "Nangalkot, Raikot South, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "222",
+                "Outlet Name": "Jhenaidah Bus Terminal Jhenaidah",
+                "Outlet Address": "Jhenaidah Bus Terminal Road, Jhenaidah Sadar, Jhenaidah",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "223",
+                "Outlet Name": "Jhikargacha Jessore",
+                "Outlet Address": "Rajapatti, Jhikargacha Paurashava, Jashore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "224",
+                "Outlet Name": "Jhorpol Bazar Chandpur",
+                "Outlet Address": "Jhorpol Bazar, Matlab South, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "225",
+                "Outlet Name": "Jibon Nagar Chuadanga",
+                "Outlet Address": "Andulbaria, Jibonnagar, Chuadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "226",
+                "Outlet Name": "Jibonganj Bazar",
+                "Outlet Address": "Majhiara, Jhibonganj Bazar, Nabinagar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "227",
+                "Outlet Name": "Joina Bazar",
+                "Outlet Address": "Abdar, College Road, Sreepur, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "228",
+                "Outlet Name": "Jonail Bazar",
+                "Outlet Address": "Jonail Bazar, Boraigram, Natore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "229",
+                "Outlet Name": "Jorakal Bazar khulna",
+                "Outlet Address": "289 Tutpara Main Road, Khulna City Corporation, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "230",
+                "Outlet Name": "Joriahnala Bazar",
+                "Outlet Address": "Madrasha Gate, Zoarianala, Ramu, Cox'S Bazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "231",
+                "Outlet Name": "Jorpukur Gazipur",
+                "Outlet Address": "Aman tower, Munshi para, Joydebpur, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "232",
+                "Outlet Name": "Joypurhat Sadar",
+                "Outlet Address": "Rukundipur, Akkelpur, Joypurhat.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "233",
+                "Outlet Name": "Juktikhola Bazar Comilla",
+                "Outlet Address": "Juktikhola Bazar, Nangalkot, Acumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "234",
+                "Outlet Name": "Junudpur Bazar",
+                "Outlet Address": "Junadpur, Sonaimuri, Noakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "235",
+                "Outlet Name": "Kadamtoli Keraniganj",
+                "Outlet Address": "Model Town Padma City Market, Kadamtoli, Keranigonj, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "236",
+                "Outlet Name": "Kadergonj Bazar Mujibnagar",
+                "Outlet Address": "Komorpur, Natudah, Mujibnagar, Meherpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "237",
+                "Outlet Name": "Kadirdi Bazar",
+                "Outlet Address": "Kadirdi Bazar, Faridpur, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "238",
+                "Outlet Name": "Kadla Bazar Kachua",
+                "Outlet Address": "Kadla Bazar, Kadla, Kachua, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "239",
+                "Outlet Name": "Kaiya Bazar Khulna",
+                "Outlet Address": "Kaiya Bazar, Batiaghata, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "240",
+                "Outlet Name": "Kakoirtola",
+                "Outlet Address": "Kakoirtola Bazar,Kaliyapara-3620, Shahrasti, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "241",
+                "Outlet Name": "Kalaiya Bauphal",
+                "Outlet Address": "Daspara, Baupol, Patuakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "242",
+                "Outlet Name": "Kalakandi",
+                "Outlet Address": "Kalakandi Bazar, Titas, Cumilla.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "243",
+                "Outlet Name": "Kaliatol",
+                "Outlet Address": "Kaliyatol Bazar, Bijoykora , Chauddagram, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "244",
+                "Outlet Name": "Kalibari Bazar Palashbari",
+                "Outlet Address": "Kalibari Bazar, Palashbari, Gaibandha",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "245",
+                "Outlet Name": "Kaliganj Bazar Jhenaidah",
+                "Outlet Address": "Kishan High School Road, Kaliganj, Jessore",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "246",
+                "Outlet Name": "Kaliganj Bazar Satkhira",
+                "Outlet Address": "Varashimla, Kaliganj, Satkhira",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "247",
+                "Outlet Name": "Kalikapur Bazar",
+                "Outlet Address": "Kalikapur, Jafarganj, Debidwer, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "248",
+                "Outlet Name": "Kallyanpur Notun Bazar",
+                "Outlet Address": "285/B/1, Paikpara (Pc Green Tower) Mirpur, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "249",
+                "Outlet Name": "Kalowa Bazar",
+                "Outlet Address": "Kalowa Bazar, Kaya, Kumarkhali, Kushtia",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "250",
+                "Outlet Name": "Kamal Bazar South Surma",
+                "Outlet Address": "Bustand, Kamal Bazar, South Surma, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "251",
+                "Outlet Name": "KamalKachna Rangpur",
+                "Outlet Address": "G L Ray Road, Kamalkachna, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "252",
+                "Outlet Name": "Kamdia Bazar",
+                "Outlet Address": "Kamdia Bazar, Gobindaganj,Gaibandha",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "253",
+                "Outlet Name": "Kamrangirchar",
+                "Outlet Address": "West Rosulpur (Near Rony Market), Kamrangirchar, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "254",
+                "Outlet Name": "Kamta Bazar Faridganj",
+                "Outlet Address": "Kamta Bazar, Faridganj, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "255",
+                "Outlet Name": "Kanchkura Bazar",
+                "Outlet Address": "Kanchkura, Uttarkhan, Dhaka.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "256",
+                "Outlet Name": "Kansat Chapai Nawabganj",
+                "Outlet Address": "Kansat, Shibganj, Chapai Nawabganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "257",
+                "Outlet Name": "Kanuram Bazar Lohagara",
+                "Outlet Address": "Purbo Kalaojan, Lohagara, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "258",
+                "Outlet Name": "Kasba Brahmanbaria",
+                "Outlet Address": "H-65, Janata Bank Road, Puraton Bazar, Kosba, Bramanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "259",
+                "Outlet Name": "Kashiani Bazar Gopalganj",
+                "Outlet Address": "Kashiani Bazar, Kashiani, Gopalganj",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "260",
+                "Outlet Name": "Kashipur Bazar",
+                "Outlet Address": "Kashipur Bazar,Vashaniya, Homna, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "261",
+                "Outlet Name": "Katabaria Kishoreganj",
+                "Outlet Address": "Katabaria, Kishoreganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "262",
+                "Outlet Name": "Kathaltoli More Naogaon",
+                "Outlet Address": "Chakrampur, Kathaltali, Naogaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "263",
+                "Outlet Name": "Kathgora",
+                "Outlet Address": "Alam Super Market, Kathgora Bazar, Kathgora, Ashulia, Savar, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "264",
+                "Outlet Name": "Katiadi Bazar Kishoreganj",
+                "Outlet Address": "Nadir Bad Purbapas, Katiadi, Kishoreganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "265",
+                "Outlet Name": "Katkhoir Bazar Naogaon",
+                "Outlet Address": "Katkhoir Bazar, Naogon Sadar, Naogon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "266",
+                "Outlet Name": "Kauljani Bazar Basail",
+                "Outlet Address": "Board Bazar, Kauljani, Basail, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "267",
+                "Outlet Name": "Kayemkhola Jhikorgachha Jessore",
+                "Outlet Address": "Halsha, Jashore Sadar, Jeshore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "268",
+                "Outlet Name": "Kazir Bazar Sylhet",
+                "Outlet Address": "Kazir Bazar, Sylhet City Corporation, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "269",
+                "Outlet Name": "Kazir Hat Jajira Shariatpur",
+                "Outlet Address": "Dubesaibar, Jajira, Shariatpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "270",
+                "Outlet Name": "Kazirhat Bazar",
+                "Outlet Address": "Kazirhat Bazar, Mirzakalu, Borhanuddin, Bhola",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "271",
+                "Outlet Name": "Keraniganj",
+                "Outlet Address": "Aganagor Ispahani, Keraniganj Sadar, Keraniganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "272",
+                "Outlet Name": "Keshabpur",
+                "Outlet Address": "Keshabpur, Jeshore, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "273",
+                "Outlet Name": "Khajura Bazar",
+                "Outlet Address": "Khajura Bazar,Gourinagar, Bagharpara, Jashore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "274",
+                "Outlet Name": "Khajuria Bazar",
+                "Outlet Address": "Khazuria Bazar, Singhergaon, Faridganj, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "275",
+                "Outlet Name": "Khalishpur Bazar Moheshpur",
+                "Outlet Address": "Khalishpur Bazar, Maheshpur, Jhenaidah",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "276",
+                "Outlet Name": "Khandar Bogra",
+                "Outlet Address": "Thanthania Poschim Para, Gohail Road, Bogura Sadar, Bogura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "277",
+                "Outlet Name": "Kharkati Bazar Jaldhaka",
+                "Outlet Address": "Kharkati Bazar, Jaldhaka, Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "278",
+                "Outlet Name": "Kichok Bazar",
+                "Outlet Address": "Kichok Bazar, Shibgonj, Bogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "279",
+                "Outlet Name": "Koigram Bazar",
+                "Outlet Address": "Kaiyajam Bazar, Patiya, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "280",
+                "Outlet Name": "Koloroa Bazar",
+                "Outlet Address": "Chowrasta Mor, Kalarowa, Satkhira",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "281",
+                "Outlet Name": "Kortimari Bazar Rowmari",
+                "Outlet Address": "Kortimari Bazar,Jadur Char, Rawmari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "282",
+                "Outlet Name": "Koyra Bazar Khulna",
+                "Outlet Address": "Koyra Bazar, Koyra, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "283",
+                "Outlet Name": "Krishna Nagar",
+                "Outlet Address": "Kalikapur, Kaliganj, Satkhira",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "284",
+                "Outlet Name": "Kumira Patkelghata",
+                "Outlet Address": "Patkelghata Bazar, Tala, Satkhira",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "285",
+                "Outlet Name": "Kunjerhat Sadar Bhola",
+                "Outlet Address": "Sadar Road, Kunjer Hat Bazar, Borhanuddin, Bhola",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "286",
+                "Outlet Name": "Kurigram Outlet",
+                "Outlet Address": "Bazar Road, Kurigram.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "287",
+                "Outlet Name": "Kuti Bazar Kasba",
+                "Outlet Address": "Kuti Uttar Bazar, Kuti, Kasba, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "288",
+                "Outlet Name": "Lalmohan Bhola",
+                "Outlet Address": "Karim Road, Lalmohon, Bhola",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "289",
+                "Outlet Name": "Lalmonirhat Sadar",
+                "Outlet Address": "Goshala Road, Lalmonirhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "290",
+                "Outlet Name": "Langura Bazar Netrakona",
+                "Outlet Address": "Langura Bazar, Langura, Kalmakanda, Netrakona",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "291",
+                "Outlet Name": "Link Road",
+                "Outlet Address": "Link Road, Zhilanja, Cox's Bazar Sadar, Cox's Bazar",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "292",
+                "Outlet Name": "Lohagora Sadar",
+                "Outlet Address": "Muktijoddha Complex, Lohagora Bazar, Norail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "293",
+                "Outlet Name": "Madan Bazar Netrakona",
+                "Outlet Address": "Madan Bazar, Jahangirpur, Madan, Netrakona",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "294",
+                "Outlet Name": "Madhabpur Bazar Habiganj",
+                "Outlet Address": "Holding: 62 Kalibari Road, Madhabpur, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "295",
+                "Outlet Name": "Madhugonj Bazar",
+                "Outlet Address": "Modhugonj Bazar, Kaligonj, Jhenaidah",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "296",
+                "Outlet Name": "Madhupur Tangail",
+                "Outlet Address": "Kakraid, Modhupur, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "297",
+                "Outlet Name": "Madrasa Bazar Gohorpur",
+                "Outlet Address": "Madrasa Bazar, Gohorpur, Balaganj, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "298",
+                "Outlet Name": "Magura Sadar Magura",
+                "Outlet Address": "Chawlia Busstand, Narail Road, Magura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "299",
+                "Outlet Name": "Mahalchari Bazar",
+                "Outlet Address": "Mahalchari Bazar, Mahalchari, Khagrachari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "300",
+                "Outlet Name": "Malionko Bazar",
+                "Outlet Address": "Baligaon, Tongibari, Munshiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "301",
+                "Outlet Name": "Mamudpur Bazar",
+                "Outlet Address": "Sit Mamudpur Bazar, Tarufpur, Mirzapur, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "302",
+                "Outlet Name": "Mannan Nagar Bazar",
+                "Outlet Address": "Mannan Nagar College, Mannan nagar, Noakhali Sadar, Noakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "303",
+                "Outlet Name": "Mathbaria Pirojpur",
+                "Outlet Address": "K. M. Latif Super Market, Math Baria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "304",
+                "Outlet Name": "Matikata Bazar",
+                "Outlet Address": "Matikata Bazar, Dhaka Cantonment, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "305",
+                "Outlet Name": "Matlab Bazar Chandpur",
+                "Outlet Address": "H-478, Masjid Road, Matab Bazar, Matlab Dakshin, Chandpur.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "306",
+                "Outlet Name": "Meahbazar Cumilla",
+                "Outlet Address": "Meahbazar, Chauddagram, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "307",
+                "Outlet Name": "Medical More Hatibandha Lalmonirhat",
+                "Outlet Address": "Rail Gate, Singimari, Hati Bandha, Lalmonirhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "308",
+                "Outlet Name": "Meherpur",
+                "Outlet Address": "Khoksha, Amjhupi, Meherpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "309",
+                "Outlet Name": "Miarhat",
+                "Outlet Address": "Miarhat, Nesarabad, Pirojpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "310",
+                "Outlet Name": "Mirer Bazar Best Buy",
+                "Outlet Address": "Mirer Bazar, Pubail, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "311",
+                "Outlet Name": "Mirpur-1",
+                "Outlet Address": "2/D, Shop No-27, Sec-02, Ruhani Supper Market, Mirpur-1, Dhaka",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "312",
+                "Outlet Name": "Mirzapur Bijoy Nagar",
+                "Outlet Address": "Mirzapur, Mohadebpur, Bijoynagar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "313",
+                "Outlet Name": "Mirzarhat Fatikchhari",
+                "Outlet Address": "Mirzarhat, Bhujpur, Fatikchhari, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "314",
+                "Outlet Name": "Mission More Lalmonirhat",
+                "Outlet Address": "Mission More, Lalmonirhat Sadar, Lalmonirhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "315",
+                "Outlet Name": "Mitaly Bazar Raipur",
+                "Outlet Address": "Mitali Bazar, Udmara, Raypur, Laxmipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "316",
+                "Outlet Name": "Miyar Beri Laxmipur",
+                "Outlet Address": "Sutar Gupta, Miyerberi , Vobanigonj, Laxmipur Sadar, Laxmipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "317",
+                "Outlet Name": "Modonhat",
+                "Outlet Address": "Madonhat Bazar, Fatehpur, Hathazari, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "318",
+                "Outlet Name": "Mohadevpur Bazar",
+                "Outlet Address": "Bus Stand Main Road, Mohadevpur, Naogaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "319",
+                "Outlet Name": "Mohammad Nogor Bazar Moulvibazar",
+                "Outlet Address": "Mohammad Nogor Bazar,Barlekha, Moulvibazar",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "320",
+                "Outlet Name": "Mohammadpur Magura",
+                "Outlet Address": "Mohammadpur Bazar, Mohammadpur, Magura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "321",
+                "Outlet Name": "Mohipur",
+                "Outlet Address": "Mohipur More, Mohipur, Chapainwabganj Sadar, Chapainwabganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "322",
+                "Outlet Name": "Moishtua Bazar",
+                "Outlet Address": "Moishtua Bazar,Amtoli Bazar, Monohorganj, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "323",
+                "Outlet Name": "Mojid Shoroni Shonadanga",
+                "Outlet Address": "Sami Hospital, Mollabari More, Mojid Shoroni, Shonadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "324",
+                "Outlet Name": "Mollahat Bagerhat",
+                "Outlet Address": "Girisnagar, Mollahat, Bagerhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "325",
+                "Outlet Name": "Mongol Shikder Bazar",
+                "Outlet Address": "Dholi Gour Nogor, Lalmohan, Bhola",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "326",
+                "Outlet Name": "Moukhara",
+                "Outlet Address": "Moukhara Bazar, Boraigram, Natore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "327",
+                "Outlet Name": "Muksudpur Gopalganj",
+                "Outlet Address": "Muksudpur Pouroshova, Muksudpur, Gopalganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "328",
+                "Outlet Name": "Muladuli",
+                "Outlet Address": "Muladuli, Iswordi, Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "329",
+                "Outlet Name": "Mulagul Noyabazar",
+                "Outlet Address": "Kandola, Noya Bazar, Kanaighat, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "330",
+                "Outlet Name": "Munshigonj Bazar",
+                "Outlet Address": "Sonatonpur, Munshiganj, Alamdanga, Chuadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "331",
+                "Outlet Name": "Muradnagar",
+                "Outlet Address": "Muradnagar Bazar, Muradnagar, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "332",
+                "Outlet Name": "Nabdiganj Bazar Mahiganj",
+                "Outlet Address": "Nabdiganj Bazar, Pirgacha, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "333",
+                "Outlet Name": "Nabiganj Bazar Habiganj",
+                "Outlet Address": "Nabiganj Plaza, Word No-3, Nabiganj, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "334",
+                "Outlet Name": "Nagarbari Ghat Bera Pabna",
+                "Outlet Address": "Nalkhola Bazar, Puran Bherenga, Aminpur, Bera, Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "335",
+                "Outlet Name": "Nager Digirpar",
+                "Outlet Address": "Nager dighir par Bazar, Ramganj, Lakhmipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "336",
+                "Outlet Name": "Nageshwari Kurigram",
+                "Outlet Address": "Bazar Road , Nageshwari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "337",
+                "Outlet Name": "Naikhongchari",
+                "Outlet Address": "Masjidguna, Naikhongchari Sadar, Bandarban",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "338",
+                "Outlet Name": "Nakla Bazar Nakla",
+                "Outlet Address": "Shop No: 156/5, Eshebpur, Nakla, Sherpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "339",
+                "Outlet Name": "Nalghor Bazar Cumilla",
+                "Outlet Address": "Nalghar Bazar, Chouddagram, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "340",
+                "Outlet Name": "Nalua Bazar Chandpur",
+                "Outlet Address": "Kachua,Chandpur,Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "341",
+                "Outlet Name": "Namuja Bazar",
+                "Outlet Address": "Namuza Bandar, Bogura Sadar, Bogura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "342",
+                "Outlet Name": "Nandiapara Bazar",
+                "Outlet Address": "Nandia Para, Sonaimuri, Noakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "343",
+                "Outlet Name": "Nangalkot Bazar",
+                "Outlet Address": "Taltola, Laksham Road, Nangolkot Bazar, Laksham, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "344",
+                "Outlet Name": "Narshinshar Bazar",
+                "Outlet Address": "Poyag Narashingsar Bazar, Sadar Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "345",
+                "Outlet Name": "Narsingdi Sadar",
+                "Outlet Address": "2E Mizan Market 3Rd Floor, C&B Road, Narsingdi",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "346",
+                "Outlet Name": "Naruamala",
+                "Outlet Address": "Naruamalahat, Gabtali, Bogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "347",
+                "Outlet Name": "Naruli Bogra",
+                "Outlet Address": "Naruli, Bogra Sadar, Bogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "348",
+                "Outlet Name": "Nasirnagar",
+                "Outlet Address": "Thana Road, Nasirnagar Sadar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "349",
+                "Outlet Name": "Navaron Bazar",
+                "Outlet Address": "Navaron Rail Bazar, Sharsha, Jashore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "350",
+                "Outlet Name": "Nawabenki",
+                "Outlet Address": "Nawabenki Bazar, Shyamnagar, Satkhira",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "351",
+                "Outlet Name": "Nazirpur",
+                "Outlet Address": "Kalibari, Nazirpur, Pirojpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "352",
+                "Outlet Name": "New Market Rangamati",
+                "Outlet Address": "Shailo Biponi Bitan,New Court Road, Rangamati Paurashava, Rangamati",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "353",
+                "Outlet Name": "Niamoti Bakerganj",
+                "Outlet Address": "Niamoti, Chanta, Bakerganj, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "354",
+                "Outlet Name": "Nimgachi Bazar Raiganj",
+                "Outlet Address": "Nimgachi,Raiganj, Sirajganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "355",
+                "Outlet Name": "Nitaiganj Narayanganj",
+                "Outlet Address": "42 No Bakhtiyar Khilji Road, Narayanganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "356",
+                "Outlet Name": "Noagaon Bazar",
+                "Outlet Address": "Noagaon Bazar, Kachua, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "357",
+                "Outlet Name": "Noakhali Sadar",
+                "Outlet Address": "Imam Bazar, Lakshminarayanpur, Maijdee Court, Noakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "358",
+                "Outlet Name": "Nolgaon Notun Bazar",
+                "Outlet Address": "Nolgaon Notun Bazar, Nolgaon, Kapasia, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "359",
+                "Outlet Name": "North Ibrahimpur Dhaka",
+                "Outlet Address": "North Ibrahimpur Kafrul, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "360",
+                "Outlet Name": "Notun Bridge Moulovibazar",
+                "Outlet Address": "Troylokyobizoy, Notun Bridgez, Noliuri, Kamalpur,Moulovibazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "361",
+                "Outlet Name": "Nowpara Bazar Munshiganj",
+                "Outlet Address": "Nowpara Bazar, Louhajong, Munshiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "362",
+                "Outlet Name": "Noya Bazar",
+                "Outlet Address": "Rajnagar Bazar(Noya Bazar), North Raonagar, Rangamatia, Kaliganj, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "363",
+                "Outlet Name": "Noya Bazar",
+                "Outlet Address": "Khakradaha, Dharabarisha, Guruddaspur, Natore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "364",
+                "Outlet Name": "Padma Bazar",
+                "Outlet Address": "Dakkhin Chandipur, Ramganj, Laxmipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "365",
+                "Outlet Name": "Padua Bazar Comilla",
+                "Outlet Address": "Mozumder Plaza,Chura, Chauddagram, Cumilla",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "366",
+                "Outlet Name": "Paduar Bazar Comilla",
+                "Outlet Address": "Dhaka-Chittagong Road, Paduyar Bazar Bisnhoroad, Sadar Dakshin, Comilla",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "367",
+                "Outlet Name": "Pagla Bazar Dakshin Sunamganj",
+                "Outlet Address": "Paglabazar, Dakshin Sunamganj, Sunamganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "368",
+                "Outlet Name": "Pahartoli Bazar",
+                "Outlet Address": "Bridge Road, Pahartali Railway Bazar, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "369",
+                "Outlet Name": "Paikpara Bazar",
+                "Outlet Address": "Paikpara Bazar, Pak-Harashpur, Bijoynagar, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "370",
+                "Outlet Name": "Paikura Bazar Netrokona",
+                "Outlet Address": "Paikura Bazar, Kendua, Netrokona",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "371",
+                "Outlet Name": "Pail Bazar Paikpara",
+                "Outlet Address": "Pail Natun Bazar, Paikpara, Sadar Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "372",
+                "Outlet Name": "Paisarhat",
+                "Outlet Address": "Paisa, Paisarhat, Agailjhara, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "373",
+                "Outlet Name": "Pakurtia Bazar Tungipara",
+                "Outlet Address": "Par Jhanjhania, Tungipara, Gopalganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "374",
+                "Outlet Name": "Panchagarh Sadar Panchagarh",
+                "Outlet Address": "Kacha Bazar, Panchagarh Sadar, Panchagarh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "375",
+                "Outlet Name": "Panchbibi Sadar",
+                "Outlet Address": "Railgate, Kamdia Road, Panchbibi, Joypurhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "376",
+                "Outlet Name": "Panti Bazar Cumilla",
+                "Outlet Address": "Panti Bazar, 21 No Babuti Para, Muradnagar, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "377",
+                "Outlet Name": "Patanpara Bazar Jaldakha",
+                "Outlet Address": "Pathanpara Bazar, Mirganj, Jaldakha, Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "378",
+                "Outlet Name": "Patiya",
+                "Outlet Address": "Ishpahani Jt Road, Mohora, Kalurghat, Chittagong",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "379",
+                "Outlet Name": "Pirganj Bazar Rangpur",
+                "Outlet Address": "Pirganj Bus Stand Road, Pirganj, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "380",
+                "Outlet Name": "Pirganj Bazar Thakurgaon",
+                "Outlet Address": "Raghunathpur, Pirganj, Thakurgaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "381",
+                "Outlet Name": "Pirojpur Sadar",
+                "Outlet Address": "Shohor Pirojpur Sheikhpara, Pirojpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "382",
+                "Outlet Name": "Polashbari Naogaon",
+                "Outlet Address": "Palashbari, Koshob, Manda, Naogaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "383",
+                "Outlet Name": "Porabari Bazar Tangail",
+                "Outlet Address": "Porabari , Tangail Sadar, Tangail.",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "384",
+                "Outlet Name": "PRPS- Ghorashal",
+                "Outlet Address": "Rfl Best Buy Showroom, Pran Rfl Public School, Bypass Road, Ghorashal, Palash, Narsingdi.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "385",
+                "Outlet Name": "Puran Bazar Madaripur",
+                "Outlet Address": "Pradhan Sarak, Puran Bazar, Madaripur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "386",
+                "Outlet Name": "Puranapoil Bazar",
+                "Outlet Address": "Puranapoil, Joypurhat Sadar, Joypurhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "387",
+                "Outlet Name": "Puraton Bazar Ghoraghat Dinajpur",
+                "Outlet Address": "Khandakartola, Puratan Bazar, Ghoraghat Paurasava, Dinajpur",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "388",
+                "Outlet Name": "Puraton Bustand Mymensingh",
+                "Outlet Address": "Nandail Bazar,Mymensingh.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "389",
+                "Outlet Name": "Purba Bag Golapganj",
+                "Outlet Address": "Naliuri, Purba Vadeshwar, Gopalganj, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "390",
+                "Outlet Name": "Puthia Bazar",
+                "Outlet Address": "H-151, Puthia Trimohoni Bazar, High School Market, Puthia, Rajshahi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "391",
+                "Outlet Name": "Putiazani Tangail",
+                "Outlet Address": "Putiazani Bazar, Fazilhati, Delduar, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "392",
+                "Outlet Name": "Raipur Bazar",
+                "Outlet Address": "Raipur, Awshpara, Laksam, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "393",
+                "Outlet Name": "Rajapur Sadar Jhalokathi",
+                "Outlet Address": "Upazila Parishad Sarak, Rajapur, Jhalokati",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "394",
+                "Outlet Name": "Rajarbag Dhaka",
+                "Outlet Address": "91- Rajarbag, Basabo, Sabujbag, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "395",
+                "Outlet Name": "Rajbari Bazar",
+                "Outlet Address": "Rajbari Bazar, Rajbari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "396",
+                "Outlet Name": "Rajpur Bazar Lalmonirhat",
+                "Outlet Address": "Rajpur, Sadar, Lalmonirhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "397",
+                "Outlet Name": "Rajshahi Sadar",
+                "Outlet Address": "Fudkipara, Borokuthi, Rajshahi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "398",
+                "Outlet Name": "Rakalganj Southsurma",
+                "Outlet Address": "Doulotpur, Rakalganj, South Surma, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "399",
+                "Outlet Name": "Ramchandrapur Bazar",
+                "Outlet Address": "Ramchandrapur Uttar Bazar, Murdnagar, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "400",
+                "Outlet Name": "Ranaping Bazar",
+                "Outlet Address": "Sotkhondo, Ranaping, Golapganj, Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "401",
+                "Outlet Name": "Ranigonj Bazar Ghoroghat",
+                "Outlet Address": "Baniganj Bazar, Ghoraghat, Dinajpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "402",
+                "Outlet Name": "Ranigonjbazar",
+                "Outlet Address": "Alampur, Ranigonj Bazar, Jagannathpur, Sunamganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "403",
+                "Outlet Name": "Rasulpur Bazar Comilla",
+                "Outlet Address": "Rasulpur Bazar, Rasulpur, Debidwar, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "404",
+                "Outlet Name": "Rawot Hat Bazar",
+                "Outlet Address": "Rowhat Bazar, Chandasar, Kasba, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "405",
+                "Outlet Name": "Raypur Bazar Daudkandi",
+                "Outlet Address": "Raypur Bazar, Gramraypur, Daudkandi, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "406",
+                "Outlet Name": "Razganj Bazar Monirampur",
+                "Outlet Address": "Razganj Bazar, Monirampur, Jessore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "407",
+                "Outlet Name": "Ria Bazar Khulna",
+                "Outlet Address": "Horintana, Jolma, Botiaghati, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "408",
+                "Outlet Name": "RIP- Mulgaon",
+                "Outlet Address": "Best Buy Showroom, Rfl Industrial Park, Mulgaon, Kaliganj, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "409",
+                "Outlet Name": "Robir Bazar Kulaura",
+                "Outlet Address": "Robir Bazar, Prithimpasha, Kulaura, Maulvibazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "410",
+                "Outlet Name": "Rohitpur",
+                "Outlet Address": "Vision Emporium, College Road, Ramerkanda, Rohit, Keraniganj, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "411",
+                "Outlet Name": "Rosulganj Bazar Bhukshimoil Kulaura",
+                "Outlet Address": "Bade Voyeksimoyel, Kulaura, Moulvibazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "412",
+                "Outlet Name": "Rosulpur Bazar Kishoreganj",
+                "Outlet Address": "Rosulpur Bazar, Nikli, Kishoreganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "413",
+                "Outlet Name": "Ruderpudda Bazar Kishoreganj",
+                "Outlet Address": "Roderpudda Bazar, Nikli, Kishoreganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "414",
+                "Outlet Name": "Rupganj Bazar Netrakona",
+                "Outlet Address": "Rupganj Bazar, Baushi, Barhatta, Netrokona",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "415",
+                "Outlet Name": "Rupsha Fish Market",
+                "Outlet Address": "Rupsha Paikari Mas Bazar, Khanjahan Ali Road, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "416",
+                "Outlet Name": "Sadar Upazilla",
+                "Outlet Address": "Balapukur, Sadar, Chapainawabganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "417",
+                "Outlet Name": "Sadullahpur Bazar",
+                "Outlet Address": "Sadullahpur,Madarganj Road,Gaibanha.",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "418",
+                "Outlet Name": "Sagardighi Bazar Ghatail",
+                "Outlet Address": "Sagordighi Bazar, Ghatail, Tangail",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "419",
+                "Outlet Name": "Sahitpur Bazar Netrakona",
+                "Outlet Address": "Sahitpur Bazar, Kendua, Netrakona",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "420",
+                "Outlet Name": "Saidpur Bazar Nilphamari",
+                "Outlet Address": "Saiyedpur Bazar, Saiyedpur, Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "421",
+                "Outlet Name": "Salanga Bazar Ullapara",
+                "Outlet Address": "Salang Bazar, Ullapara, Sirajgonj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "422",
+                "Outlet Name": "Salimabad",
+                "Outlet Address": "Salimabad, Banchnarampur, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "423",
+                "Outlet Name": "Sangitamore",
+                "Outlet Address": "47- Jessore Road, Khulna City Corporation, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "424",
+                "Outlet Name": "Santahar Bazar Bogura",
+                "Outlet Address": "Santahar, Adamdigi, Bogura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "425",
+                "Outlet Name": "Santhia Pabna",
+                "Outlet Address": "Nariagdai Bazar, Dhopadah, Santhia, Pabna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "426",
+                "Outlet Name": "Santir Bazar",
+                "Outlet Address": "Santir Bazar, Monoharganj, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "427",
+                "Outlet Name": "Sapahar Bazar Naogaon",
+                "Outlet Address": "Main Road Walton More, Sapahar, Naogaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "428",
+                "Outlet Name": "Sarojganj Bazar Chuadanga",
+                "Outlet Address": "Sorojganj Bazar, Chuadanga Sadar, Chuadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "429",
+                "Outlet Name": "Setabgonj Bazar Bochagonj Dinajpur",
+                "Outlet Address": "Word No- 3, Setabganj Bazar, Satabganj, Dinajpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "430",
+                "Outlet Name": "Sha Ali College Market",
+                "Outlet Address": "Shah Smrity Market , Shah Ali, Mirpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "431",
+                "Outlet Name": "Shahbajpur",
+                "Outlet Address": "Monowara Hospital, Sarail, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "432",
+                "Outlet Name": "Shahbajpur Bazar Moulvibazar",
+                "Outlet Address": "Siraj Mansion, Shahbajpur Bazar Moulvibazar,Sylhet",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "433",
+                "Outlet Name": "Shahjadpur Sirajganj",
+                "Outlet Address": "Dariapur, Shahzadpur, Sirajganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "434",
+                "Outlet Name": "Shahpur Bazar",
+                "Outlet Address": "Dhonjoy Nagar, Shahpur Bazar, Madhabpur, Habiganj",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "435",
+                "Outlet Name": "Sharifpur Bazar Jamalpur",
+                "Outlet Address": "Sharifpur Bazar, Jamalpur Sadar, Jamalpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "436",
+                "Outlet Name": "Sherpur More Phulpur",
+                "Outlet Address": "Amuyakanda Bazar, Phulpur, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "437",
+                "Outlet Name": "Shibchar",
+                "Outlet Address": "Hazi Majid Beparir Kandi, Kutubpur, Shibchar, Madaripur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "438",
+                "Outlet Name": "Shinabaha Bazar",
+                "Outlet Address": "Sinaboho, Bashtoli, Mouchak, Kaliakoir, Gazipur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "439",
+                "Outlet Name": "Shirajdikhan",
+                "Outlet Address": "Vision Emporium, Z.H. Shopping Complex 2, Sirajdekhan Bazar, Munshiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "440",
+                "Outlet Name": "Shoshodi Bazar",
+                "Outlet Address": "Gozariyakandi, Shorshadi Bazar, Feni Sadar, Feni",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "441",
+                "Outlet Name": "Shothibari",
+                "Outlet Address": "Shothibari, Mithapukur, Rangpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "442",
+                "Outlet Name": "Shoulmari Bazar Rowmari",
+                "Outlet Address": "Ghughumari, Char Shoulmari, Rowmari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "443",
+                "Outlet Name": "Signboard",
+                "Outlet Address": "E-206 Samad Vanu Complex, Signboard, Narayanganj Sadar, Narayanganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "444",
+                "Outlet Name": "Silmun Tongi",
+                "Outlet Address": "Silmun Primary School, Tongi, Gazipur",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "445",
+                "Outlet Name": "Sital Kaker More Bazar Mymensingh",
+                "Outlet Address": "Sital Kaker More Bazar, Dakatia, Bhaluka, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "446",
+                "Outlet Name": "Snanghat Bazar",
+                "Outlet Address": "Snanghat Bazar, Bahubal, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "447",
+                "Outlet Name": "Sonadanga Kacha Bazar",
+                "Outlet Address": "10 Truck Tarminal Road, Sonadanga, Khulna",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "448",
+                "Outlet Name": "Sonahata Bazar",
+                "Outlet Address": "Sonahata Bazar, Nimgasi, Dhunat, Bogura",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "449",
+                "Outlet Name": "Sonaimuri Bazar Outlet",
+                "Outlet Address": "High School Road, Zila Super Market, Sonaimuri Bazar, Noakhali",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "450",
+                "Outlet Name": "Sonarampur",
+                "Outlet Address": "Sonarampur, Banchharampur, Brahmanbaria",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "451",
+                "Outlet Name": "Sonatala",
+                "Outlet Address": "Sonatala Natun Bandar, Sonatala, Bogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "452",
+                "Outlet Name": "Sonir Akhra",
+                "Outlet Address": "1/27, Brothers Super Market, Gobindapur Bazar, Sonir Akhra, Jatrabari, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "453",
+                "Outlet Name": "Soti Hat",
+                "Outlet Address": "Soti Hat, Sreepur, Manda, Naogaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "454",
+                "Outlet Name": "South Banasree",
+                "Outlet Address": "South Banasree, Rampura, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "455",
+                "Outlet Name": "Sreenagar",
+                "Outlet Address": "Best Buy, Bhagykul Road, Opposite Of Mocca Complex, Sreenagor, Munshigonj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "456",
+                "Outlet Name": "Surjapur Bazar",
+                "Outlet Address": "Surjapur Bazar, Debidwar, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "457",
+                "Outlet Name": "Taggonmari Bazar Jaldhaka",
+                "Outlet Address": "Tanggonmari Bazar, Mirganj Road, Jaldhaka, Nilphamari",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "458",
+                "Outlet Name": "Taker Hat Bazar",
+                "Outlet Address": "Abdul Aziz Complex, Tekerhat, Rajoir, Madaripur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "459",
+                "Outlet Name": "Talondo Bazar Rajshahi",
+                "Outlet Address": "Hol-893, Shop-03, Talondo Bazar, Tanore, Rajshahi",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "460",
+                "Outlet Name": "Taragunia Bazar Daulatpur",
+                "Outlet Address": "Taragunia, Daulatpur, Kushtia",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "461",
+                "Outlet Name": "Tarashail Bazar",
+                "Outlet Address": "Tarashail, Chouddagram, Comilla",
+                "Status": "On Hold"
+            },
+            {
+                "Sl No.": "462",
+                "Outlet Name": "Teknaf Bazar",
+                "Outlet Address": "Hazi Abdul Karim Market, Pan Bazar, Teknaf , Cox's Bazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "463",
+                "Outlet Name": "Thakurgaon Road Bazar",
+                "Outlet Address": "Thakurgaon Road, Thakurgaon Paurashava, Thakurgaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "464",
+                "Outlet Name": "Thakurgaon Sadar",
+                "Outlet Address": "Thakurgaon Sadar, Thakurgaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "465",
+                "Outlet Name": "Thana Road Derai",
+                "Outlet Address": "Holding No: 07/0234, Thana Road Derai Pourosova, Sunamganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "466",
+                "Outlet Name": "Thirapukur Chartha",
+                "Outlet Address": "South Charza, Thirapukur Par, Cumilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "467",
+                "Outlet Name": "Thuknipara Bazar Patnitala",
+                "Outlet Address": "Chak Shibrampur, Patnitala, Naogaon",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "468",
+                "Outlet Name": "TI High School Suagazi",
+                "Outlet Address": "Suaganj Bazar, Suaganj, Comilla Sadar South, Comilla",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "469",
+                "Outlet Name": "Tilokpur Bazar",
+                "Outlet Address": "Tilokpur, Akkelpur, Joypurhat",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "470",
+                "Outlet Name": "Toitong Bazar",
+                "Outlet Address": "Toitong Bazar, Toitong, Pekua, Cox'S Bazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "471",
+                "Outlet Name": "Torki Bandar Gournadi",
+                "Outlet Address": "H-1902, Boro Kasba, Torki Bandar, Gournadi, Barisal",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "472",
+                "Outlet Name": "Traffic More Nilphamari Bazar",
+                "Outlet Address": "Progoti Para, Nilphamari Sadar,Nilphamari",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "473",
+                "Outlet Name": "Trishal Bazar",
+                "Outlet Address": "Humayun Kabir City Center, Trishal Bazar, Trishal, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "474",
+                "Outlet Name": "Turag Dhaka",
+                "Outlet Address": "Kamarpara Road, Beribad, Turag, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "475",
+                "Outlet Name": "Twenty Seven No. Ward CDC CTG",
+                "Outlet Address": "Ward 27, Chattogram City Corporation, Chottogra",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "476",
+                "Outlet Name": "Ucha Bazar",
+                "Outlet Address": "Ucha Bazar, Tuzarpur, Bhanga, Faridpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "477",
+                "Outlet Name": "Uchakhila Bazar Ishwarganj",
+                "Outlet Address": "Aladiar Algi, Uchakhila, Ishwarganj, Mymensingh",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "478",
+                "Outlet Name": "Udaysadurhat",
+                "Outlet Address": "Udaysadurhat, Noakhali Sadar, Noakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "479",
+                "Outlet Name": "Ujani Bazar",
+                "Outlet Address": "Ujani Bazar, Ujani, Kachua, Chandpur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "480",
+                "Outlet Name": "Ukilbari Road Sreemangal",
+                "Outlet Address": "Ruposhpur, Sreemangol, Moulvibazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "481",
+                "Outlet Name": "Ulipur Bazar",
+                "Outlet Address": "KC Road, Ulipur, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "482",
+                "Outlet Name": "Ulipur Kurigram",
+                "Outlet Address": "Rabeya Super Market, Ulipur, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "483",
+                "Outlet Name": "Upazilla Gate Rowmari",
+                "Outlet Address": "Upazilla Gate, Rowmari, Kurigram",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "484",
+                "Outlet Name": "Uposhohor Jessore",
+                "Outlet Address": "Uposhohor,Jessore",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "485",
+                "Outlet Name": "Uttar Bazar Barlekha",
+                "Outlet Address": "H-207, Shop- 7, Asia Plaza, Barlekha, Moulvibazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "486",
+                "Outlet Name": "Vhorer Bazar",
+                "Outlet Address": "Rajibpur Bhorer Bazar, Sonaimuri, Noakhali",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "487",
+                "Outlet Name": "Voiroba Moheshpur",
+                "Outlet Address": "Loknathpur Bazar, Damurhuda, Chuadanga",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "488",
+                "Outlet Name": "Volarjum Bazar Chunarughat",
+                "Outlet Address": "Volarjum Bazar, Musikandi, Chunarghat, Habiganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "489",
+                "Outlet Name": "Vurghata Bazar",
+                "Outlet Address": "Vurghata Bazar, Kalkini, Madaripur",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "490",
+                "Outlet Name": "Wapdahat Gopalganj",
+                "Outlet Address": "Wapdahat, Gachapara, Kotalipara, Gopalganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "491",
+                "Outlet Name": "Wezkhali Sadar Sunamganj",
+                "Outlet Address": "Wayezkhali, Sunamganj Sadar, Sunamganj",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "492",
+                "Outlet Name": "Why-Keong",
+                "Outlet Address": "Why-Keong, Teknaf, Cox'S Bazar",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "493",
+                "Outlet Name": "Zigatola Dhaka",
+                "Outlet Address": "23/C Zigatola (Ground Floor), Beside Sonali Bank, Zigatola, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "494",
+                "Outlet Name": "Zirani Bazar Gazipur",
+                "Outlet Address": "Baroipara, Ashulia, Savar, Dhaka",
+                "Status": "Active"
+            },
+            {
+                "Sl No.": "495",
+                "Outlet Name": "Zorargonj Bazar",
+                "Outlet Address": "R.M Tower, Zorargonj Bazar, Mirsarai, Chattogram",
+                "Status": "Active"
+            }
+        ]
+    }
+}
