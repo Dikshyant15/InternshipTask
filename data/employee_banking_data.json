@@ -1,0 +1,76 @@
+{
+    "https://www.citybankplc.com/solutions/employee-banking": {
+        "description": "City Bank brings Employees Banking Solutions, a solution that will consolidate to disburse their employees' salaries & other monetary facilities automatically into their respective accounts without incurring any cost from both accounts of employees and employer.",
+        "Features": [
+            "Zero balance account opening",
+            "Free Account Maintenance",
+            "No Minimum Account Balance"
+        ],
+        "Benefits": {
+            "Individual Accounts": [
+                "Zero Balance account opening",
+                "No Minimum Account Balance",
+                "Account Maintenance Charge Applicable (As Per Agreement)",
+                "Debit Card charge applicable (as per agreement)",
+                "Attractive Interest rate on savings account",
+                "Intercity Cash Charge Applicable (As Per Agreement)",
+                "E-Statement facility",
+                "Citytouchinternet banking facility",
+                "Cash by Code (payment to any individual through City\ufffdBank ATM Booth)",
+                "24/7 Hours Customer Service Call Center",
+                "Waiver on Credit Card Annual Fee",
+                "Attractive Retail Loan Products"
+            ],
+            "Company Benefits": [
+                "Dedicated relationship manager for form collection & post-opening services",
+                "Separate Account Service Unit for account processing",
+                "Bulk handover of Debit Card & Cheque Book by Relationship Manager at Office Premise",
+                "CityLive for Employees bulk salary & other payments",
+                "No salary transfer charge",
+                "Fast track loan & credit card processing"
+            ],
+            "Citytouch for Individuals": [
+                "Real-time online registration without human intervention",
+                "Transfer funds",
+                "View account statements",
+                "Manage bank accounts",
+                "Mobile top-ups",
+                "Pay credit card and utility bills",
+                "Activate or block your debit and credit cards",
+                "Debit and credit card PIN change",
+                "Issue, stop and manage your cheque books",
+                "Transfer money fromCitytouchto bKash",
+                "Open Fixed Deposits & Deposit Pension Schemes"
+            ],
+            "CityLive for Employee Banking Digital Payment": [
+                "Fully integrated internet banking platform for all corporate payments",
+                "Dual control along with smart phone authorization",
+                "Round the clock transactions",
+                "Fully paperless transactions",
+                "Access real time account information & MIS",
+                "City Bank to City Bank instant transfer",
+                "BEFTN & RTGS Transactions",
+                "Single or Bulk payments"
+            ]
+        },
+        "why_bank_with_city": "At City, there are so many ways to bank. You can bank online, on the phone, in branch and with the Citytouch mobile Banking.",
+        "awards": [
+            {
+                "Title": "Best Consumer Digital Bank",
+                "Detail": "Global Finance Award in 2014, 2015, 2017 & 2018"
+            },
+            {
+                "Title": "Best Premium Banking Services in Bangladesh",
+                "Detail": "by Asiamoney Best Bank awards 2018  & 2019"
+            },
+            {
+                "Title": "Best Bank in Bangladesh",
+                "Detail": "by Asiamoney Banking awards 2017"
+            },
+            {
+                "Title": "Best Bank in Bangladesh",
+                "Detail": "by Global Finance Best Emerging Markets Bank 2015, 2016, 2017 & 2019"
+            }
+        ]
+    }
+}

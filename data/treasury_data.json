@@ -16,5 +16,29 @@
             "Reduce too much dependency on call market, thus helps to manage regulatory liquidity requirement.",
             "Depending on the forward yield curve, it can be used to maximize returns on investment."
         ]
+    },
+    "https://www.citybankplc.com/foreign-exchange": {
+        "General Info": "Foreign Exchange market is known as the market in which currencies are traded. The forex market is the largest, most liquid market in the world with an average traded value that exceeds $1.9 trillion per day and includes all of the currencies in the world. The volume of this market is increasing continuously. There is no central marketplace for currency exchange; trade is conducted over the counter (OTC). The international forex market is open 24 hours a day, five days a week, and these currencies are traded worldwide among the major financial centers of London, New York, Tokyo, Zurich, Frankfurt, Hong Kong, Singapore, Paris and Sydney. The forex is the largest market in the world in terms of the total cash value traded, and any person, firm or country may participate in this market."
+    },
+    "https://www.citybankplc.com/local-currency-spot-and-forward": {
+        "General Info": "Our currency is not fully convertible thus it is not traded across the world. Our currency BDT is traded in our local market and this market is regulated as per our foreign exchange regulation and central bank core risk management guidelines. The City Bank PLC. is very active in the inter-bank USDBDT market and one of the leaders among the local private banks. City\u00a0Bank treasury provides market information and competitive price in USDBDT. It has wide source of foreign currency through its Exporter, Exchange Houses and different local and multinational corporate customers. Its dedicated local currency desk is designed to provide tailor made solution for USDBDT trade. Spot & Forward both are used to manage foreign exchange risk. Forwards, especially in our economy where our local currency BDT devalues periodically against USD, is very popular among the importer to hedge BDT devaluation risk.  Major Currency Spot & Forward City\u00a0Bank also well equipped to price world major currency spot & forward price. City\u00a0Bank treasury is connected to the international market quotes very competitive prices on world major currency spot & forwards."
+    },
+    "https://www.citybankplc.com/derivatives": {
+        "In finance, a security whose price is dependent upon or derived from one or more underlying assets. The derivative itself is merely a contract between two or more parties. Its value is determined by fluctuations in the underlying asset. The most common underlying assets include stocks, bonds, commodities, currencies, interest rates and market indexes. Most derivatives are characterized by high leverage.": [],
+        "Futures contracts, forward contracts, options and swaps are the most common types of derivatives. Because derivatives are just contracts, just about anything can be used as an underlying asset. There are even derivatives based on weather data, such as the amount of rain or the number of sunny days in a particular region.": [],
+        "Derivatives are generally used to hedge risk, but can also be used for speculative purposes.": [],
+        "City\u00a0Bank Treasury team has a variety of derivatives products for its corporate customers:": [],
+        "01. Foreign Exchange": [
+            "Options",
+            "SWAPS",
+            "Forwards"
+        ],
+        "02. Interest Rate Swap": [],
+        "03. Commodity Derivatives": [
+            "Commodity Options",
+            "Commodity Forwards",
+            "Commodity Futures",
+            "Commodity SWAP."
+        ]
     }
 }
