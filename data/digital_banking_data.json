@@ -1,0 +1,329 @@
+{
+    "https://www.citybankplc.com/citytouch": {
+        "Create Virtual Debit and Prepaid Card instantly": {
+            "General Information": [
+                "Apply for a virtual debit or prepaid card from Citytouch app, and receive the card instantly. You can use these virtual cards and enjoy below services:"
+            ],
+            "lists": [
+                [
+                    "ATM withdrawal (through Citytouch Cash by Code feature)",
+                    "QR Payment",
+                    "E-commerce payment (local and international)"
+                ]
+            ]
+        },
+        "Convenient Fund Transfer": {
+            "General Information": [
+                "Transfer funds from your account/ card whenever you want",
+                "You can transfer funds to-"
+            ],
+            "lists": [
+                [
+                    "Own CBL accounts",
+                    "Other CBL accounts",
+                    "Other bank accounts through NPSB, RTGS & BEFTN."
+                ]
+            ]
+        },
+        "Use Citytouch to open DPS and FD accounts": {
+            "General Information": [],
+            "lists": [
+                [
+                    "Enjoy instant FD /DPS opening through Citytouch  withoutthe hassle of any paper work."
+                ]
+            ]
+        },
+        "Apply for Quick Loan": {
+            "General Information": [],
+            "lists": [
+                [
+                    "Apply for a Quick loan (up to 90% loan facility) against your FD /DPS account without visiting any branches."
+                ]
+            ]
+        },
+        "SEAMLESS MFS Transfer": {
+            "General Information": [
+                "Transfer funds from your account/ card to any Mobile Financial Services whenever you want.",
+                "You can transfer funds to-"
+            ],
+            "lists": [
+                [
+                    "bKash",
+                    "Nagad",
+                    "Tap",
+                    "Upay"
+                ]
+            ]
+        },
+        "Pay your Utility Bills": {
+            "General Information": [],
+            "lists": [
+                [
+                    "You can pay Gas, Water, Electricity & Akash Digital TV bill anytime from Citytouch without standing in the long queue."
+                ]
+            ]
+        },
+        "Send money to anyone using \u201cCash by code\u201d": {
+            "General Information": [
+                "You can send money to anyone through Cash by Code.",
+                "Recipient can withdraw money from any\u00a0 City\u00a0 Bank ATM across the country by inputting the Code they have received."
+            ],
+            "lists": []
+        },
+        "24/7 Mobile Recharge": {
+            "General Information": [
+                "You can recharge your mobile anytime anywhere from Citytouch."
+            ],
+            "lists": []
+        },
+        "Pay your Credit Card Bills": {
+            "General Information": [
+                "You can pay any City bank credit card and other bank VISA cards from Citytouch in just a few taps."
+            ],
+            "lists": []
+        }
+    },
+    "https://www.citybankplc.com/smart-ivr": {
+        "General Information": "City Bank brings to you Smart IVR visual response system. This all-new IVR system will enable you to complete your banking activities through the IVR menu on your mobile screen conveniently and safely. You can perform these activities without the help of any customer service representative.",
+        "How to use the Smart IVR system": [
+            "Step 1: Dial 16234 (from local) or +88028331040 (from abroad)",
+            "Step 2: Select your preferred language (Bangla or English)",
+            "Step 3: Press 2, for Smart IVR services",
+            "Step 4: Mobile connection will be automatically disconnected. Click the link that is sent to your mobile through SMS"
+        ],
+        "Available services through Smart IVR (SIVR)": [
+            "1. PIN Generation & Card Activation",
+            "2. Account Services",
+            "3. Credit Card Services",
+            "4. Fund Transfer",
+            "5. Bill Payment",
+            "6. Cheque Related Services",
+            "7. Foreign Exchange Rate"
+        ],
+        "PIN Generation & Card Activation": [
+            "Step 1: Enter your card number.",
+            "Step 2: Enter your telephone identification number.",
+            "Step 3: Enter your card expiry date.",
+            "Step 4: Enter your desired 4-digit Personal Identification Number (PIN) and confirm.",
+            "Step 5: After successful PIN generation you will get a notification through SMS and e-mail."
+        ],
+        "Account Services": [
+            "Balance Enquiry (Available balance & un-cleared amount)",
+            "Last 5 Transaction Enquiry",
+            "Deposit Account Information\n\t\nDPS (Current Principle Amount and Maturity Date)\nFDR (Current Principle Amount and Maturity Date)",
+            "DPS (Current Principle Amount and Maturity Date)",
+            "FDR (Current Principle Amount and Maturity Date)",
+            "Loan Account Information (Amount due, Outstanding amount, Last repayment date & amount, Next installment date & amount, Expiry date and Remaining installment)\n\t\nPersonal Loan/Finance\nAuto Loan/Finance\nHome Loan/Finance",
+            "Personal Loan/Finance",
+            "Auto Loan/Finance",
+            "Home Loan/Finance",
+            "DPS (Current Principle Amount and Maturity Date)",
+            "FDR (Current Principle Amount and Maturity Date)",
+            "Personal Loan/Finance",
+            "Auto Loan/Finance",
+            "Home Loan/Finance"
+        ],
+        "Credit Card Services": [
+            "Credit Card Information (Credit card limit, Available limit, Current outstanding, Available endorsement value and MR point)",
+            "Last 5 Transaction Enquiry",
+            "Foreign Part Enable/Disable\n\t\nEnable\nDisable",
+            "Enable",
+            "Disable",
+            "Statement Details",
+            "Enable",
+            "Disable"
+        ],
+        "Fund Transfer": [
+            "City Bank Account\n\t\nEnter desired account number\nConfirm\nEnter amount\nEnter One Time Password\nSystem Confirmation",
+            "Enter desired account number",
+            "Confirm",
+            "Enter amount",
+            "Enter One Time Password",
+            "System Confirmation",
+            "Enter desired account number",
+            "Confirm",
+            "Enter amount",
+            "Enter One Time Password",
+            "System Confirmation",
+            "Transfer to bKash\n\t\nEnter bKash wallet number\nConfirm\nEnter amount\nEnter One Time Password\nSystem Confirmation",
+            "Enter bKash wallet number",
+            "Confirm",
+            "Enter amount",
+            "Enter One Time Password",
+            "System Confirmation",
+            "Enter bKash wallet number",
+            "Confirm",
+            "Enter amount",
+            "Enter One Time Password",
+            "System Confirmation"
+        ],
+        "Bill payment": [
+            "City Bank Credit Card",
+            "Other Bank Credit Card",
+            "Utility bill payment"
+        ],
+        "Cheque Related Services": [
+            "Cheque book Request\n\t\n25 Pages (For savings Account)\n50 Pages (For Current Account)\n100 Pages (For Current Account)",
+            "25 Pages (For savings Account)",
+            "50 Pages (For Current Account)",
+            "100 Pages (For Current Account)",
+            "Cheque Status Enquiry\n\t\nEnter Cheque leaf number",
+            "Enter Cheque leaf number",
+            "Cheque Stop\n\t\nEnter Cheque leaf number\nSystem will show the leaf number and execution charge\nConfirm\nSystem Confirmation",
+            "Enter Cheque leaf number",
+            "System will show the leaf number and execution charge",
+            "Confirm",
+            "System Confirmation",
+            "25 Pages (For savings Account)",
+            "50 Pages (For Current Account)",
+            "100 Pages (For Current Account)",
+            "Enter Cheque leaf number",
+            "Enter Cheque leaf number",
+            "System will show the leaf number and execution charge",
+            "Confirm",
+            "System Confirmation",
+            "Card Cheque Activation\n\t\nEnter first cheque leaf number\nEnter last cheque leaf number\nConfirm",
+            "Enter first cheque leaf number",
+            "Enter last cheque leaf number",
+            "Confirm",
+            "Chequebook Request",
+            "Cheque Status Enquiry\n\t\nEnter Cheque leaf number",
+            "Enter Cheque leaf number",
+            "Card Cheque Stop\n\t\nEnter Cheque leaf number\nSystem will show the leaf number and execution charge\nConfirm\nSystem Confirmation",
+            "Enter Cheque leaf number",
+            "System will show the leaf number and execution charge",
+            "Confirm",
+            "System Confirmation",
+            "Enter first cheque leaf number",
+            "Enter last cheque leaf number",
+            "Confirm",
+            "Enter Cheque leaf number",
+            "Enter Cheque leaf number",
+            "System will show the leaf number and execution charge",
+            "Confirm",
+            "System Confirmation"
+        ],
+        "Foreign Exchange rate": [
+            "Selling Rate (Dollar, Euro & Pound)",
+            "Buying Rate (Dollar, Euro & Pound)"
+        ],
+        "Frequently Asked Question (FAQ)": [
+            {
+                "Question": "Q. What is IVR?",
+                "Answer": "A:- Interactive Voice Response (IVR) is an automated phone system technology that allows incoming callers to access information via a voice response system of prerecorded messages without having to speak to an agent."
+            },
+            {
+                "Question": "Q. Who is eligible for City Bank IVR services?",
+                "Answer": "A:- Anyone can call at 16234 to get City bank IVR product services. To get account/credit card related services, caller should be City Bank registered customer."
+            },
+            {
+                "Question": "Q. What is City Bank Call Center Magic Number?",
+                "Answer": "A:- 16234 and +88028331040 (From abroad)"
+            },
+            {
+                "Question": "Q. How many services have incorporated in the upcoming IVR services?",
+                "Answer": "A:- \u00a0There are 66 services have been incorporated in the upcoming IVR service. Major services are given below-"
+            },
+            {
+                "Question": "Q. What is TPIN? What will be the Call Center registration process?",
+                "Answer": "A:- \u201cTPIN\u201d meaning \u201cTelephone Identification Number\u201d."
+            },
+            {
+                "Question": "Registration Process:",
+                "Answer": "- Call @ 16234 from registered phone number > Language selection > Select 1 for TPIN generation, PIN generation & Card activation, and Card Lost Report/Replacement/New Card Request > TPIN generation > Enter Account/Card Number > Call will transfer at Call Center CSE end for further process."
+            },
+            {
+                "Question": "Q. Is it mandatory to generate TPIN to get IVR & SIVR services?",
+                "Answer": "A. NO, it\u2019s not mandatory."
+            },
+            {
+                "Question": "Q. What kind of bill we can pay through IVR & SIVR?",
+                "Answer": "A:- Only following bill can be payment through IVR & SIVR"
+            },
+            {
+                "Question": "Credit Card bill",
+                "Answer": "Utility bill\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - DESCO (Postpaid) & WASA"
+            },
+            {
+                "Question": "Utility bill",
+                "Answer": "Internet bill \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - Curnival"
+            },
+            {
+                "Question": "Internet bill",
+                "Answer": "Insurance\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - Metlife"
+            },
+            {
+                "Question": "Insurance",
+                "Answer": "Tuition fee\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 - NSU (North South University)"
+            },
+            {
+                "Question": "Tuition fee",
+                "Answer": ""
+            },
+            {
+                "Question": "Q. What is the minimum & maximum transaction amount in a day?",
+                "Answer": "A:-"
+            },
+            {
+                "Question": "Q. What is Smart IVR Service?",
+                "Answer": "A:- Smart IVR is a support platform that guides inbound callers to a web-based support experience, as well as personalizing the support journey for customers to avoid the call queue. This technology seamlessly connects customers to self-service options which can meet their banking related query at first contact."
+            },
+            {
+                "Question": "Q. Who is eligible to get City Bank Smart IVR Link?",
+                "Answer": "A:- All the registered/unregistered customers can get the City Bank Smart IVR Link. But unregistered customer can get the list of service & foreign exchange rate only. And all registered/unregistered customers need to call at 16234 from mobile number (local) for getting SIVR link."
+            },
+            {
+                "Question": "Q. Who is eligible for City Bank Smart IVR services?",
+                "Answer": "A:- City Bank Retail & Credit Card members are eligible to get City Bank Smart IVR services through his/her registered mobile number."
+            },
+            {
+                "Question": "Q. How to get City Bank Smart IVR link?",
+                "Answer": "A:-\u00a0\u00a0 \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 Step 1: Call to 16234 and after language selection, need to select \u201c2\u201d for Smart IVR services."
+            },
+            {
+                "Question": "Step 1:",
+                "Answer": "Step 2:\u00a0 After select \u201c2\u201d for Smart IVR services, IVR will sent a short SIVR link to the customers calling number (Only mobile number)."
+            },
+            {
+                "Question": "Step 2:",
+                "Answer": "Step 3: Now customer can view the smart IVR service main menu without any authentication."
+            },
+            {
+                "Question": "Step 3:",
+                "Answer": "Q. Is City Bank Smart IVR link secure?"
+            },
+            {
+                "Question": "Q. Is City Bank Smart IVR link secure?",
+                "Answer": "A:- Yes, banking through web-based support is safe moreover this link will generate dynamically with single session accessibility, because customer needs to call from registered contact number and in every validation steps the customer will need to input their Telephone Identification Number/ Personal Identification Number along with Account Number/Card Number. And for any transaction execution customer will need to authenticate the transaction through One Time Password (OTP)."
+            },
+            {
+                "Question": "Q. How to check Account related services through City Bank Smart IVR?",
+                "Answer": "A:- Customer need to input his/her account number and validate with TIN/PIN (telephone identification number/ personal identification number). After successful validation, system will appear following services"
+            },
+            {
+                "Question": "Q. How to check Credit Card related services through City Bank Smart IVR?",
+                "Answer": "A:- Customer need to input his/her account number and authenticated with telephone identification number/ personal identification number. After successful validation, system will appear following services"
+            },
+            {
+                "Question": "Q. What are the accounts considerable for City Bank Smart IVR services?",
+                "Answer": "A:- Following Accounts are considerable for City Bank Smart IVR services;"
+            },
+            {
+                "Question": "Q. What are the services offering through City Bank Smart IVR?",
+                "Answer": "A:- Following services are included in City Bank Smart IVR-"
+            },
+            {
+                "Question": "Q. Which debit card base will get service through City Bank Smart IVR?",
+                "Answer": "A:- All types of debit card member will be able to get service through City Bank Smart IVR"
+            },
+            {
+                "Question": "Q. Which credit card base will get service through City Bank Smart IVR?",
+                "Answer": "A:- All consumer credit card base will be able to access City Bank Smart IVR. However, CMs with following credit card status will not be able to get information by choosing different menu although they will be able to subscribe."
+            },
+            {
+                "Question": "Q. Is City Bank Smart IVR service accessible for both Primary & Supple CM?",
+                "Answer": "A: - Primary CM can check his/her card information along with supple if similar contact number tagged with both cards. However, Supplementary CM can access services through City Bank Smart IVR separately if different contact number has been tagged with his/her card."
+            }
+        ]
+    }
+}
