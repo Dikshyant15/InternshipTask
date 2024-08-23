@@ -2,7 +2,6 @@ langchain
 langchain_community
 langchain_core
 python-dotenv==1.0.1
-chromadb
 beautifulsoup4
 ctransformers 
 sentence-transformers
@@ -20,3 +19,9 @@ jsonpath-python==1.0.6
 jsonpointer==2.4
 numpy
 langchain-huggingface
+chromadb
+matplotlib
+torch 
+torchvision 
+torchaudio
+marker-pdf
