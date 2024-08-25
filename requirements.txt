@@ -1,4 +1,4 @@
-langchain
+langchain==0.1.10
 langchain_community
 langchain_core
 python-dotenv==1.0.1
@@ -25,3 +25,5 @@ torch
 torchvision 
 torchaudio
 marker-pdf
+unstructured
+markdown
